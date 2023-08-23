@@ -1,6 +1,6 @@
 ---
 name: Joseph Taylor
-role: Instructional Aide
+role: Graduate Student Instructor
 email: joesphut@umich.edu
 photo: joesphut.jpg
 ---

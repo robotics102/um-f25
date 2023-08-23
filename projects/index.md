@@ -10,7 +10,7 @@ has_toc: false
 
 # Course Projects
 {: .no_toc }
-ROB 102, Fall 2022 at The University of Michigan
+ROB 102, Fall 2023 at The University of Michigan
 {: .fs-6 .fw-300 }
 
 * [Project 0](/projects/p0/): Pocket Calculator

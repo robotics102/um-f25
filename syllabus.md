@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Syllabus
@@ -19,9 +20,15 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ---
 
-## Engin 101 credit
+## Degree Program Credit
 
-Robotics 102 satisfies the prerequisite requirement for EECS 280. The introductory programming requirement for Engineering majors (e.g., Engin 101, Engin 151) can be satisfied by Robotics 102 for the following majors: BME, CS-Engin, CS-LSA, NAME, and Robotics. This course is the second offering of Robotics 102 that is part of the new [Michigan Robotics Undergraduate Program](http://robotics.umich.edu/undergraduate).
+Completing Robotics 102 will fulfill
+
+- the prerequisite for [EECS 280](https://bulletin.engin.umich.edu/courses/eecs/)
+
+
+- the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Departments for other majors can be requested to count Robotics 102 for introductory programming.
+
 
 ---
 
@@ -41,7 +48,7 @@ Robotics 102 has no prerequisites. Students are expected to be fluent in algebra
 
 ## Course Meetings: Flipped Classroom
 
-Robotics 102 is taught using a flipped classroom hybrid format. All lectures will be pre-recorded and available online through this course website. In-person course lecture meetings will be used for brief (but required) course activities, question-and-answer discussions, and additional office hours for interactive help with course projects. There will also be occasional field trips to see interesting robots. In-person lab sections will be dedicated to topics for course projects, primarily for coding and robot projects. Students seeking help during office hours must watch all lectures that have been assigned up to the current date. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan.
+Robotics 102 is taught using a flipped classroom hybrid format. The majority of the lectures will be pre-recorded and available online through this course website. In-person course lecture meetings will be used for quizzes, brief (but required) course activities, project work, question-and-answer discussions, and additional office hours for interactive help with course projects. There will also be occasional field trips to see interesting robots, based their availability. In-person lab sections will be dedicated to topics for course projects, primarily for coding and robot projects. Students seeking help during office hours must watch all lectures that have been assigned up to the current date. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan.
 
 ---
 
@@ -53,31 +60,48 @@ Similar to Engineering 101, all technical information that you need for Robotics
 
 ## Projects & Grading
 
-Robotics 102 will assign 5 programming projects, 4 quizzes, and a number of class activities. Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.
+Robotics 102 will assign 5 programming projects, 4 quizzes, at least 16 checkpoint activities, and at least 18 lecture review questions. Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.
 
 Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All project work must be checked by the final grading deadline to receive credit.
 
-Each fully completed project is weighted as 15 points. The weight of a particular class activity will be specified with that activity. Each question on a quiz will be weighted as one point.
+Each fully completed project is weighted as 15 points.  Each quiz will be weighted as 3 points.  Each project checkpoint will be weighted as 1 point.  Each set of lecture review questions will be weighted as 0.5 points.
 
 Based on this sum of points from coursework, an overall grade for the course is earned as follows:
 
-- An A- grade in the course is guaranteed if graded coursework sums to 93 points or above,
-- A B- grade in the course is guaranteed if graded coursework sums to 83 points or above,
-- A C grade in the course is guaranteed if graded coursework sums to 73 points or above.
+- An A- grade in the course is guaranteed if graded coursework sums to 100 points or above,
+- A B- grade in the course is guaranteed if graded coursework sums to 90 points or above,
+- A C grade in the course is guaranteed if graded coursework sums to 80 points or above.
 
 The instructor reserves the option to assign appropriate course grades with plus or minus modifiers.
 
-### Asynchronous/In-class Activities
+### Project Checkpoints
 
-Each activity will be worth 1 point, graded as "checked" (completed) or "due" (incomplete). Points will be awarded up to a maximum of 8 points total. Activities will be completed and submitted through Replit. The assignment deadline will be posted with its description.
+Each project checkpoint will be worth 1 point, graded as "checked" (completed) or "due" (incomplete).  The checkpoint deadline will be posted with its assignment description.  For project checkpoints assigned for a class meeting, the percentage of the credit granted depends on the time of submission for the completed checkpoint:
 
-### Advanced Extensions
+- Full credit: submission prior to 11:59pm of the day of class period 
+- 80%: submission prior to 11:59pm of the upcoming Friday evening
+- 60%: submission prior to due date of the project module associated with the checkpoint
+- 50%: submission prior to the final grading deadline for the semester
 
-Students have the opportunity to earn up to 4 additional points through an advanced extension of a course project. Advanced extensions are due by the course final grading deadline (December 9, 2022) and do not need to be completed for the deadlines of each assignment.
+Checkpoint submissions graded as incomplete can be resubmitted for regrading at the next deadline for the checkpoint.
+
+### Lecture Review Questions
+
+Each flipped classroom lecture will have questions review questions to answer.  These lecture review questions serve as pre-class preparation for an upcoming class meeting.  Submission of these lecture review questions is due by the start of the class meeting.  For project checkpoints assigned for a class meeting, the percentage of the credit granted depends on the time of submission of the review question responses:
+
+- Full credit: submission prior to the start of the class period 
+- 90%: submission prior to 11:59pm of the day of the class period
+- 90%: submission prior to 11:59pm of the upcoming Friday evening
+- 60%: submission prior to due date of the project module associated with the checkpoint
+- 50%: submission prior to the final grading deadline for the semester
+
+
+
+Students have the opportunity to earn up to 4 additional points through an advanced extension of a course project. Advanced extensions are due by the course final grading deadline (December 8, 2022) and do not need to be completed for the deadlines of each assignment.
 
 ### Grading Breakdown
 
-Points for ROB 102 are divided as follows, for a total of **100 points**. In addition, up to 4 advanced extension points can be earned.
+Points for Robotics 102 are divided as follows, for a total of **112 points**. 
 
 | Description                  | Points |
 |------------------------------|--------|
@@ -88,10 +112,9 @@ Points for ROB 102 are divided as follows, for a total of **100 points**. In add
 | - Project 3: 15 points       |        |
 | - Project 4: 15 points       |        |
 | Quizzes (4 x 3 points each)   | 12     |
-| In-class activities (8 x 1 point each) | 8 |
-| Participation                | 5      |
-| *Advanced extensions (optional)* | 4   |
-|                              | 100 ( +4 ) |
+| Project Checkpoints (16 x 1 point each) | 16 |
+| Lecture Review Questions (18 x 0.5 points each | 9   |
+|                              | 112 |
 
 ---
 
@@ -107,21 +130,21 @@ If granted by the course instructor, late submissions for projects and activitie
 
 - Submissions pushed within two weeks past the project deadline will be graded for 80% credit.
 - Submissions pushed within four weeks of the project deadline will be graded for 60% credit.
-- Submissions pushed at any time before the semester project submission deadline (December 9, 2022) will be considered for 50% credit.
+- Submissions pushed at any time before the semester project submission deadline (December 8, 2022) will be considered for 50% credit.
 
 As a reminder, the course instructor reserves the right to decline late submissions and/or adjust partial credit on regraded assignments.
 
 ### Regrading Policy
 
-The regrading policy allows for submission and regrading of projects and activities up through the final grading of projects, which is December 9 for the Fall 2022 Semester. This regrading policy will grant full credit for submissions made before the corresponding project deadline. If a feature of a graded project is returned as not completed (or "DUE"), your code can be updated for consideration at 80% credit. This code update must be submitted within two weeks from when the originally graded project or activity was returned. Regrades of projects updated beyond this two-week window can receive at most 60% credit. The course staff will allow one regrade for each grading iteration.
+The regrading policy allows for submission and regrading of projects and activities up through the final grading of projects, which is December 8 for the Fall 2023 Semester. This regrading policy will grant full credit for submissions made before the corresponding project deadline. If a feature of a graded project is returned as not completed (or "DUE"), your code can be updated for consideration at 80% credit. This code update must be submitted within two weeks from when the originally graded project or activity was returned. Regrades of projects updated beyond this two-week window can receive at most 60% credit. The course staff will allow one regrade for each grading iteration.
 
 ### Completed Features Policy
 
-All checked features must continue to function properly in your repository up through the final grading deadline (December 9, 2022). Checked features that do not function properly for subsequent projects will be treated as a new submission and subject to the regrading policy.
+All checked features must continue to function properly in your repository up through the final grading deadline (December 8, 2022). Checked features that do not function properly for subsequent projects will be treated as a new submission and subject to the regrading policy.
 
 ### Final Grading
 
-All grading will be finalized on December 9, 2022. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
+All grading will be finalized for course work submitted on or before December 8, 2022. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
 
 ### Repositories
 

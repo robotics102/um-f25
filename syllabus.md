@@ -9,8 +9,6 @@ nav_order: 3
 ROB 102, Fall 2023 at The University of Michigan
 {: .fs-6 .fw-300 }
 
-**This page is under construction.** Information here is tentative.
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -176,6 +174,8 @@ Students are encouraged to update their repository often with the help of branch
 ## Collaboration Policy
 
 This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the Michigan Honor License (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
+
+All students are responsible for their own individual work, even work done in collaboration within a group.
 
 Course material, concepts, and documentation may be discussed with anyone. Discussion during quizzes or examinations is not allowed with anyone other than a member of the course staff. Assignments may be discussed with the other students at the conceptual level. Discussions may make use of a whiteboard or paper. Discussions with others (or people outside of your assigned project group) cannot include writing or debugging code on a computer or collaborative analysis of source code. You may take notes away from these discussions, provided these notes do not include any source code.
 

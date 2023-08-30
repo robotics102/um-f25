@@ -10,31 +10,23 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 1
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Aug 28 | Course Initialization Overview [[Slides](https://drive.google.com/file/d/1JALGeTOAgfrDfWAQxvt03IMHvRJ_nznN/view?usp=sharing)] | Fetch Robot Demo  |  |
-| Aug 30 | Lecture Video: [Hello World!](https://www.youtube.com/watch?v=nKu9H-CeptI) 
-[[Slides](https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing)] 
-[[Lecture Digest](https://drive.google.com/file/d/19NnuFFlGaNnYuYd3mt9BhiDnK-oLvtVD/view?usp=sharing)] 
-[[Digest Slides](https://drive.google.com/file/d/1t13pz-DGDBm4VUaFeAMYf1jIOdu9jkm9/view?usp=sharing)] 
-| Checkpoint: [First C++ Program](https://robotics102.org/activities.html#a1_hello_world) [[Slides](https://drive.google.com/file/d/1Wa5HP6o3Zwkq4JGCeY0IOBgIeV1YC42F/view?usp=sharing)] <br> Teleoperated Robot Racing | Out: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
+| Aug 30 | Lecture Video: [Hello World!](https://www.youtube.com/watch?v=nKu9H-CeptI) [[Slides](https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/19NnuFFlGaNnYuYd3mt9BhiDnK-oLvtVD/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1t13pz-DGDBm4VUaFeAMYf1jIOdu9jkm9/view?usp=sharing)] | Checkpoint: [First C++ Program](https://robotics102.org/activities.html#a1_hello_world) [[Slides](https://drive.google.com/file/d/1Wa5HP6o3Zwkq4JGCeY0IOBgIeV1YC42F/view?usp=sharing)] <br> Teleoperated Robot Racing | Out: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
 | Sept 1 | Lab: Introduction to the MBot-Omni [[Slides](https://drive.google.com/file/d/1K4WV8Xeo2cAha8h8wV1ZLWhJ2XTdKmJo/view?usp=sharing)]   |  |
 
 ### Week 2
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 4 | No Class: Labor Day | | |
-| Sept 6  | Lecture Video: [C++ Operators and Variables](https://youtu.be/Vvys7lZa764)  
-[[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] 
-[[Lecture Digest](https://drive.google.com/file/d/158Om6MtiqB7q1LlHA5LXKbxPqTj432Va/view?usp=sharing)] 
-[[Digest Slides](https://drive.google.com/file/d/1iE0RfLMY2Z77xlVqoyiXcuZ7xhrDsywK/view?usp=sharing)] 
-| Checkpoint: Mathler & Sumplete <br> UMGPT Calc | |
+| Sept 6  | Lecture Video: [C++ Operators and Variables](https://youtu.be/Vvys7lZa764)  [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/158Om6MtiqB7q1LlHA5LXKbxPqTj432Va/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1iE0RfLMY2Z77xlVqoyiXcuZ7xhrDsywK/view?usp=sharing)] | Checkpoint: Mathler & Sumplete <br> UMGPT Calc | |
 | Sept 8 | Lab: Git & VSCode - First Git commit | | Out: Project 1 (Wall Follower) |
 
 ### Week 3
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 11 | Lecture Video: Branching <br> Lecture Video: Iterators | Checkpoint: Calculator Operation | | 
 | Sept 13 | Lecture Video: Feedback Control | Checkpoint: Follow Me 1D | |
@@ -42,7 +34,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 4
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 18 | Lecture Video: C++ Functions | Checkpoint: Laser Range Conversion | |
 | Sept 20 | Lecture Video: Geometry Review | Checkpoint: Drive Vector Fusion | |
@@ -50,7 +42,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 5
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 25 | Lecture Video: C++ Vectors | Quiz 0 <br> Checkpoint: Find Minimum Value | |
 | Sept 27 | Lecture Video: Wall Follower | Checkpoint: Follow Me 2D | |
@@ -58,7 +50,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 6
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 2  | Demo Preperation | Demo Day: Project 1 | |
 | Oct 4  | No Class: [IROS 2023 in Detroit](https://ieee-iros.org/){:target="_blank"} | |
@@ -66,7 +58,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 7
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 9  | Lecture Video: Bug Algorithms & State Machines | Checkpoint: Super Mario State Machine | |
 | Oct 11  | Lecture Video: Coordinate Frames | Checkpoint: Robot Hits the Spot | |
@@ -74,7 +66,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 8
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 16 | No Class: Fall Break | | |
 | Oct 18 | Lecture Video: C++ Structs | Checkpoint: Structs Activity | |
@@ -82,7 +74,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 9
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 23  | Demo Preparation | Demo Day: Project 2 | |
 | Oct 25  | Lecture Video: Mapping & Local Search | Pair Navigation | |
@@ -90,7 +82,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 10
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 30 | Lecture Video: Global Search I: Breadth First Search | Quiz 2 <br> Checkpoint: Paper Pathfinding in Michigan | |
 | Nov 1 | Lecture Video: Global Search II: A-Star Path Planning | Checkpoint: Replit Pathfinding in Michigan | |
@@ -98,7 +90,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 11
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 6 | Lecture Video: Machine Learning & Image Classification | Object Detection with Deep Learning | |
 | Nov 8 | Lecture Video: Introduction to Python | Checkpoint: Pocket Calculator in Python | |
@@ -106,7 +98,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 12
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 13 | Demo Preparation | Demo Day: Project 3 | |
 | Nov 15 | Lecture Video: Python Matrices and NumPy | Checkpoint: Image Distance in Python | |
@@ -114,7 +106,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 13
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Checkpoint: k-Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
 | Nov 22 | No Class: Thanksgiving Break
@@ -122,7 +114,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 14
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 27 | Lecture Video: Optimization & Neural Networks | Checkpoint: ML Training with SciKit | |
 | Nov 29 | Work Session: Project 4 | | |
@@ -130,7 +122,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 ### Week 15
 
-| Date | Lecture | In-class Activities | Project |
+| Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Dec 4 | Demo Preparation | Course Recap & Feedback | |
 | Dec 6 | Demo Preparation | Demo Day: Project 4 | |

@@ -13,8 +13,8 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Aug 28 | Course Initialization Overview [[Slides](https://drive.google.com/file/d/1JALGeTOAgfrDfWAQxvt03IMHvRJ_nznN/view?usp=sharing)] | Fetch Robot Demo  |  |
-| Aug 30 | Lecture Video: [Hello World!](https://www.youtube.com/watch?v=nKu9H-CeptI) [[Slides](https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/19NnuFFlGaNnYuYd3mt9BhiDnK-oLvtVD/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1t13pz-DGDBm4VUaFeAMYf1jIOdu9jkm9/view?usp=sharing)] | Checkpoint: [First C++ Program](https://robotics102.org/um-f23/checkpoints.html) [[Slides](https://drive.google.com/file/d/1pr41na5DWwGpPm3RPdjgxLFZiRDM2KLg/view?usp=drive_link)] <br> Teleoperated Robot Racing | Out: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
-| Sept 1 | | Lab: Introduction to the MBot-Omni [[Slides](https://drive.google.com/file/d/1K4WV8Xeo2cAha8h8wV1ZLWhJ2XTdKmJo/view?usp=sharing)]   |
+| Aug 30 | Lecture Video: [Hello World!](https://www.youtube.com/watch?v=nKu9H-CeptI) [[Slides](https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/19NnuFFlGaNnYuYd3mt9BhiDnK-oLvtVD/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1t13pz-DGDBm4VUaFeAMYf1jIOdu9jkm9/view?usp=sharing)] | Checkpoint: [First C++ Program](https://robotics102.org/um-f23/checkpoints.html) [[Slides](https://drive.google.com/file/d/1pr41na5DWwGpPm3RPdjgxLFZiRDM2KLg/view?usp=drive_link)] <br> Teleoperated Robot Racing | |
+| Sept 1 | | Lab: Introduction to the MBot-Omni [[Slides](https://drive.google.com/file/d/1K4WV8Xeo2cAha8h8wV1ZLWhJ2XTdKmJo/view?usp=sharing)] | Out: Project 0 (Pocket Calculator) |
 
 ### Week 2
 

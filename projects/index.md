@@ -13,7 +13,7 @@ has_toc: false
 ROB 102, Fall 2022 at The University of Michigan
 {: .fs-6 .fw-300 }
 
-* [Project 0](/projects/p0): Pocket Calculator
+* [Project 0](https://robotics102.org/um-f23/projects/p0.html): Pocket Calculator
 * Project 1: Wall Following
 * Project 2: Bug Navigation
 * Project 3: Path Planning

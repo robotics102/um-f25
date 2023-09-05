@@ -23,5 +23,5 @@ These checkpoints can be submitted for points towards the final course grade. Re
 
 | Date Assigned | Activity | Points | Due Date |
 |---------------|----------|--------|----------|
-| Aug 30 | First C++ Program: Hello World! [[Replit Project]](https://replit.com/@rob102-um-f23/Checkpoint-Hello-World) [[Slides]](https://drive.google.com/file/d/1pr41na5DWwGpPm3RPdjgxLFZiRDM2KLg/view?usp=sharing) | 1 point | -- |
+| Aug 30 | First C++ Program: Hello World! [[Replit Project]](https://replit.com/@rob102-um-f23) [[Slides]](https://drive.google.com/file/d/1pr41na5DWwGpPm3RPdjgxLFZiRDM2KLg/view?usp=sharing) | 1 point | -- |
 

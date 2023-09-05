@@ -11,9 +11,12 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
+  "HelloRob": https://hellorob.org/
   "Slack": https://um-engin-rob102.slack.com
   "Replit": https://replit.com/team/rob102-um-f23
-  "HelloRob Main Site": https://hellorob.org/
+  "Gradescope": https://www.gradescope.com/courses/590436
+  "GitHub Classroom": https://classroom.github.com/classrooms/88513786-robotics102-f23-classroom
+  "MBot IP": https://github.com/robotics102/mbot_ip_registry/tree/main/data
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

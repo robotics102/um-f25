@@ -37,7 +37,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 18 | Lecture Video: C++ Functions | Checkpoint: Laser Range Conversion | |
-| Sept 20 | Lecture Video: Geometry Review | Checkpoint: Drive Vector Fusion | |
+| Sept 20 | Lecture Video: Geometry Review | Checkpoint: Drive Star | |
 | Sept 22 | | Lab: C++ Review | Due: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
 
 ### Week 5
@@ -60,8 +60,8 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 9  | Lecture Video: Bug Algorithms & State Machines | Checkpoint: Super Mario State Machine | |
-| Oct 11  | Lecture Video: Coordinate Frames | Checkpoint: Robot Hits the Spot | |
+| Oct 9  | Lecture Video: Bug Algorithms & State Machines | Quiz 1 <br> Checkpoint: Super Mario State Machine | |
+| Oct 11  | Lecture Video: Coordinate Frames | Work Session: Project 2 | |
 | Oct 13  | | Lab: Odometry | |
 
 ### Week 8

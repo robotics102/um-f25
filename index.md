@@ -16,14 +16,13 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 1. TOC
 {:toc}
 
-<!-- # Meeting Times -->
+# Meeting Times
 
-<!-- <i class="fa-solid fa-chalkboard-user"></i> **Lectures:** Tues & Thurs 3-4:30 PM @ FRB 1060 -->
+<i class="fa-solid fa-chalkboard-user"></i> **Lectures:** M & W 3-4:30 PM @ FRB 1050
 
-<!-- <i class="fa-solid fa-flask"></i> **Labs:** -->
-<!-- * F 10:30 AM-12:30 PM @ FRB 1060 -->
-<!-- * F 12:30-2:30 PM @ FRB 1060 -->
-<!-- * F 2:30-4:30 PM @ FRB 1060 -->
+<i class="fa-solid fa-flask"></i> **Labs:**
+* F 12:30-2:30 PM @ FRB 1050
+* F 2:30-4:30 PM @ FRB 1050
 
 # Instructors
 
@@ -34,20 +33,16 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 {% endfor %}
 </div>
 
-{% assign gsi = site.staff | where: 'role', 'Graduate Student Instructor' %}
-{% assign num_gsi = gsi | size %}
-{% if num_gsi != 0 %}
-
 # Graduate Instructor
 
 <div class="staff-row">
-{% for staffer in gsi %}
+{% assign gsis = site.staff | where: 'role', 'Graduate Student Instructor' %}
+{% for staffer in gsis %}
 {{ staffer }}
 {% endfor %}
 </div>
-{% endif %}
 
-{% assign gsi = site.staff | where: 'role', 'Instructional Aide' %}
+{% assign teaching_assistants = site.staff | where: 'role', 'Instructional Aide' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
@@ -62,9 +57,9 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 
 # Office Hours
 
-Coming soon!
+Office hours will be held in **FRB 2000** or on [**Zoom**](https://umich.zoom.us/j/93612493008) (Passcode: ROB 102).
 
-<!-- <iframe
-    src="https://calendar.google.com/calendar/embed?src=c_0ifcv1flo2qjltm07u30o28kd8%40group.calendar.google.com&ctz=America%2FDetroit"
-    style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
-</iframe> -->
+The schedule can be found below. You must be logged in to your UM account in order to see the event details.
+You can also access the calendar or add it to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y19mODgzMzJhMDg1NWZjZGE4ODY1OGYxMjZjMTZjMDc0NmUyZmUxZmQ3M2RjNzFjODUwOWVhZjYxMzQ2NzU3M2JjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_f88332a0855fcda88658f126c16c0746e2fe1fd73dc71c8509eaf613467573bc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

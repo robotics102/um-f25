@@ -108,7 +108,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Checkpoint: k-Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
+| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: Project 4 | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
 | Nov 22 | No Class: Thanksgiving Break
 | Nov 24 | No Class: Thanksgiving Break
 
@@ -116,8 +116,8 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 27 | Lecture Video: Optimization & Neural Networks | Checkpoint: ML Training with SciKit | |
-| Nov 29 | Work Session: Project 4 | | |
+| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: Project 4 | |
+| Nov 29 | | Work Session: Project 4 | |
 | Dec 1 | | Work Session: Project 4 | |
 
 ### Week 15

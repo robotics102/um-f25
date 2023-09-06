@@ -57,7 +57,7 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 
 # Office Hours
 
-Office hours will be held in **FRB 2000** or on [**Zoom**](https://umich.zoom.us/j/93612493008) (Passcode: ROB 102).
+Office hours will be held in **FRB 2000** and on [**Zoom**](https://umich.zoom.us/j/93612493008) (Passcode: ROB 102).
 
 The schedule can be found below. You must be logged in to your UM account in order to see the event details.
 You can also access the calendar or add it to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y19mODgzMzJhMDg1NWZjZGE4ODY1OGYxMjZjMTZjMDc0NmUyZmUxZmQ3M2RjNzFjODUwOWVhZjYxMzQ2NzU3M2JjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).

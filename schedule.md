@@ -28,7 +28,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 11 | Lecture Video: Branching <br> Lecture Video: Iterators | Checkpoint: Calculator Operation | | 
+| Sept 11 | Lecture Video: [Branching and Iteration](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf) [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] <br> Branching [[Lecture Digest](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] [[Digest Slides](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] <br> Iteration [[Digest Slides]](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing) | Checkpoint: Calculator Operation | | 
 | Sept 13 | Lecture Video: Feedback Control | Checkpoint: Follow Me 1D | |
 | Sept 15 | | Lab: MBot API - Drive Square | | 
 

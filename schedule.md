@@ -22,7 +22,7 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Sept 4 | No Class: Labor Day | | |
 | Sept 6  | Lecture Video: [C++ Operators and Variables](https://youtu.be/Vvys7lZa764)  [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/158Om6MtiqB7q1LlHA5LXKbxPqTj432Va/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1iE0RfLMY2Z77xlVqoyiXcuZ7xhrDsywK/view?usp=sharing)] | Checkpoint: Mathler & Sumplete <br> UMGPT Calc | |
-| Sept 8 | | Lab: Git & VSCode - First Git commit | Out: Project 1 (Wall Follower) |
+| Sept 8 | | Lab: Git & VSCode - First Git commit [[Slides](https://drive.google.com/file/d/1Ida4iKrsg9P9qzacvj5mNhsQFA9Bh6HY/view?usp=sharing)] | Out: Project 1 (Wall Follower) |
 
 ### Week 3
 

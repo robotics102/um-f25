@@ -36,7 +36,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 18 | Lecture Video: C++ Functions | Checkpoint: Laser Range Conversion | |
+| Sept 18 | Lecture Video: [C++ Functions](https://youtu.be/ZarKDScV_DQ) [[Slides](https://drive.google.com/file/d/17jLmVqZ9TUnSaM7_c-bPs8AKllPEHUud/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/127cfELLzGBg3FEu8EDfkPGN9MUUXsbM6/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1xMeCp8E0WQwA0ClsbushyuKR6NcfH_Hh/view?usp=sharing)]| Checkpoint: Laser Range Conversion | |
 | Sept 20 | Lecture Video: Geometry Review | Checkpoint: Drive Star | |
 | Sept 22 | | Lab: C++ Review | Due: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
 

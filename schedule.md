@@ -38,7 +38,7 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Sept 18 | Lecture Video: [C++ Functions](https://youtu.be/ZarKDScV_DQ) [[Slides](https://drive.google.com/file/d/17jLmVqZ9TUnSaM7_c-bPs8AKllPEHUud/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/127cfELLzGBg3FEu8EDfkPGN9MUUXsbM6/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1xMeCp8E0WQwA0ClsbushyuKR6NcfH_Hh/view?usp=sharing)]| Checkpoint: Laser Range Conversion | |
 | Sept 20 | Lecture Video: [Omnidrive Geometry](https://youtu.be/c04v1iEPJto) [[Slides](https://drive.google.com/file/d/1urDDViXqMxtSHxQDybJ_uTMAksDW9Agf/view?usp=drive_link)] | Checkpoint: Drive Star | |
-| Sept 22 | | Lab: [C++ Review](https://drive.google.com/file/d/1dUTXBOj6F9Ug3Gt-L22L9bclcd4mr_Gw/view?usp=drive_link) | Due: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
+| Sept 22 | | Lab: [C++ Review](https://drive.google.com/file/d/16tzkhKWz3SmTfhnI-Qht6t8otItbE6_j/view?usp=sharing) | Due: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
 
 ### Week 5
 

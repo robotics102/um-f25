@@ -21,31 +21,31 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 4 | No Class: Labor Day | | |
-| Sept 6  | Lecture Video: [C++ Operators and Variables](https://youtu.be/Vvys7lZa764)  [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/158Om6MtiqB7q1LlHA5LXKbxPqTj432Va/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1iE0RfLMY2Z77xlVqoyiXcuZ7xhrDsywK/view?usp=sharing)] | Checkpoint: Mathler & Sumplete <br> UMGPT Calc | |
+| Sept 6  | Lecture Video: [C++ Operators and Variables](https://youtu.be/Vvys7lZa764)  [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/158Om6MtiqB7q1LlHA5LXKbxPqTj432Va/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1iE0RfLMY2Z77xlVqoyiXcuZ7xhrDsywK/view?usp=sharing)] | Checkpoint: [Semi-Mathler](https://robotics102.org/um-f23/checkpoints.html) <br> UMGPT Calc | |
 | Sept 8 | | Lab: Git & VSCode - First Git commit [[Slides](https://drive.google.com/file/d/1Ida4iKrsg9P9qzacvj5mNhsQFA9Bh6HY/view?usp=sharing)] | Out: Project 1 (Wall Follower) |
 
 ### Week 3
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 11 | Lecture Video: [Branching and Iteration](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf) [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] <br> Branching [[Lecture Digest](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] [[Digest Slides](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] <br> Iteration [[Digest Slides]](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing) | Checkpoint: Calculator Operation | | 
-| Sept 13 | Lecture Video: [Feedback Control](https://youtu.be/yFcaiv0wIvU?si=oTgMpmiAcjjciIjp) [[Slides](https://drive.google.com/file/d/1AZdZzsf2R80fc2M5xvzMeT7WoWllShjI/view?usp=sharing)] | Checkpoint: Follow Me 1D | |
+| Sept 11 | Lecture Video: [Branching and Iteration](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf) [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] <br> Branching [[Lecture Digest](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] [[Digest Slides](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link)] <br> Iteration [[Digest Slides]](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing) | Checkpoint: [Calculator Operation](https://robotics102.org/um-f23/checkpoints.html) | | 
+| Sept 13 | Lecture Video: [Feedback Control](https://youtu.be/yFcaiv0wIvU?si=oTgMpmiAcjjciIjp) [[Slides](https://drive.google.com/file/d/1AZdZzsf2R80fc2M5xvzMeT7WoWllShjI/view?usp=sharing)] | Checkpoint: [Follow Me 1D](https://robotics102.org/um-f23/checkpoints.html) | |
 | Sept 15 | | Lab: MBot API - Drive Square [[Slides](https://drive.google.com/file/d/1LXk2dhlTyjqYCmUdIBe_xgl8j_xum65I/view?usp=sharing)] | | 
 
 ### Week 4
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 18 | Lecture Video: [C++ Functions](https://youtu.be/ZarKDScV_DQ) [[Slides](https://drive.google.com/file/d/17jLmVqZ9TUnSaM7_c-bPs8AKllPEHUud/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/127cfELLzGBg3FEu8EDfkPGN9MUUXsbM6/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1xMeCp8E0WQwA0ClsbushyuKR6NcfH_Hh/view?usp=sharing)]| Checkpoint: Laser Range Conversion | |
-| Sept 20 | Lecture Video: [Omnidrive Geometry](https://youtu.be/c04v1iEPJto) [[Slides](https://drive.google.com/file/d/1urDDViXqMxtSHxQDybJ_uTMAksDW9Agf/view?usp=drive_link)] | Checkpoint: Drive Star | |
+| Sept 18 | Lecture Video: [C++ Functions](https://youtu.be/ZarKDScV_DQ) [[Slides](https://drive.google.com/file/d/17jLmVqZ9TUnSaM7_c-bPs8AKllPEHUud/view?usp=sharing)] [[Lecture Digest](https://drive.google.com/file/d/127cfELLzGBg3FEu8EDfkPGN9MUUXsbM6/view?usp=sharing)] [[Digest Slides](https://drive.google.com/file/d/1xMeCp8E0WQwA0ClsbushyuKR6NcfH_Hh/view?usp=sharing)]| Checkpoint: [Laser Range Conversion](https://robotics102.org/um-f23/checkpoints.html) | |
+| Sept 20 | Lecture Video: [Omnidrive Geometry](https://youtu.be/c04v1iEPJto) [[Slides](https://drive.google.com/file/d/1urDDViXqMxtSHxQDybJ_uTMAksDW9Agf/view?usp=drive_link)] | Checkpoint: [Drive Star](https://robotics102.org/um-f23/checkpoints.html) <br> Checkpoint: [Inter-Campus Mixer](https://robotics102.org/um-f23/checkpoints.html)| |
 | Sept 22 | | Lab: [C++ Review](https://drive.google.com/file/d/1maaX2MdjopapU6ny3yE-D1eto8kZtvBT/view?usp=sharing) | Due: [Project 0 (Pocket Calculator)](https://robotics102.org/projects/a0.html) |
 
 ### Week 5
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 25 | Lecture Video: [C++ Vectors](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] | Quiz 0 <br> Checkpoint: Find Minimum Value | |
-| Sept 27 | Lecture Video: Wall Follower | Checkpoint: Follow Me 2D | |
+| Sept 25 | Lecture Video: [C++ Vectors](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] | Quiz 0 <br> Checkpoint: [Find Minimum Value](https://robotics102.org/um-f23/checkpoints.html) | |
+| Sept 27 | Lecture Video: [Wall Follower](https://youtu.be/6k1EWADWj_g) [[Slides](https://drive.google.com/file/d/1jMyjGNgmjF4-OH_yAPWLPCkvXuov9Cnt/view?usp=drive_link)] | Checkpoint: Follow Me 2D | |
 | Sept 29 | | Work Session: Follow Me 2D & Project 1 | |
 
 ### Week 6
@@ -108,7 +108,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: Project 4 | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
+| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: K-Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
 | Nov 22 | No Class: Thanksgiving Break
 | Nov 24 | No Class: Thanksgiving Break
 
@@ -116,7 +116,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: Project 4 | |
+| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: ML Training with SciKit | |
 | Nov 29 | | Work Session: Project 4 | |
 | Dec 1 | | Work Session: Project 4 | |
 

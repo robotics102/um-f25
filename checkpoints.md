@@ -9,7 +9,7 @@ nav_order: 5
 
 This page summarizes the project checkpoints for the course.
 
-These checkpoints can be submitted for points towards the final course grade. Refer to the course syllabus for the grading breakdown.
+These checkpoints can be submitted for points towards the final course grade. They will be released as in class activities and be due at the same date as the project for the corresponding module. Refer to the course syllabus for the grading breakdown.
 
 ### Contents
 {: .no_toc }

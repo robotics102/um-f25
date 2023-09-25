@@ -44,7 +44,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Sept 25 | Lecture Video: C++ Vectors | Quiz 0 <br> Checkpoint: Find Minimum Value | |
+| Sept 25 | Lecture Video: [C++ Vectors](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] | Quiz 0 <br> Checkpoint: Find Minimum Value | |
 | Sept 27 | Lecture Video: Wall Follower | Checkpoint: Follow Me 2D | |
 | Sept 29 | | Work Session: Follow Me 2D & Project 1 | |
 

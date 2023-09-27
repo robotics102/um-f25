@@ -45,7 +45,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Sept 25 | Lecture Video: [C++ Vectors](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] | Quiz 0 <br> Checkpoint: [Find Minimum Value](https://robotics102.org/um-f23/checkpoints.html) | |
-| Sept 27 | Lecture Video: [Wall Follower](https://youtu.be/6k1EWADWj_g) [[Slides](https://drive.google.com/file/d/1jMyjGNgmjF4-OH_yAPWLPCkvXuov9Cnt/view?usp=drive_link)] | Checkpoint: Follow Me 2D | |
+| Sept 27 | Lecture Video: [Wall Follower](https://youtu.be/6k1EWADWj_g) [[Slides](https://drive.google.com/file/d/1jMyjGNgmjF4-OH_yAPWLPCkvXuov9Cnt/view?usp=drive_link)] | Checkpoint: [Follow Me 2D](https://robotics102.org/um-f23/checkpoints.html) | |
 | Sept 29 | | Work Session: Follow Me 2D & Project 1 | |
 
 ### Week 6

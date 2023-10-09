@@ -60,25 +60,25 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 9  | Lecture Video: Bug Algorithms & State Machines | Quiz 1 <br> Checkpoint: Super Mario State Machine | |
-| Oct 11  | Lecture Video: Coordinate Frames | Work Session: Project 2 | |
-| Oct 13  | | Lab: Odometry | |
+| Oct 9  | Lecture Video: Bug Algorithms & State Machines | Quiz 1 | |
+| Oct 11  | Lecture Video: Coordinate Frames <br> Lecture Video: Odometry | Checkpoint: Super Mario State Machine| |
+| Oct 13  | | Lab: Hit the Spot | |
 
 ### Week 8
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 16 | No Class: Fall Break | | |
-| Oct 18 | Lecture Video: C++ Structs | Checkpoint: Structs Activity | |
+| Oct 18 | | Checkpoint: Project Pseudo Code | |
 | Oct 20 | | Work Session: Project 2 | |
 
 ### Week 9
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 23  | Demo Preparation | Demo Day: Project 2 | |
-| Oct 25  | Lecture Video: Mapping & Local Search | Pair Navigation | |
-| Oct 27  | | Lab: Using the Navigation Web App | Due: Project 2 (Bug Navigation) <br> Out: Project 3 (Path Planning) |
+| Oct 23  | Lecture Video: C++ Structs | Checkpoint: Structs Activity | |
+| Oct 25  | Lecture Video: Mapping & Local Search | Robot Localization Workflow | |
+| Oct 27  | | Demo Day: Project 2 | Due: Project 2 (Bug Navigation) <br> Out: Project 3 (Path Planning) |
 
 ### Week 10
 
@@ -86,7 +86,7 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Oct 30 | Lecture Video: Global Search I: Breadth First Search | Quiz 2 <br> Checkpoint: Paper Pathfinding in Michigan | |
 | Nov 1 | Lecture Video: Global Search II: A-Star Path Planning | Checkpoint: Replit Pathfinding in Michigan | |
-| Nov 3 | | Lab: Robot Localization Workflow | |
+| Nov 3 | | Lab: Using the Navigation Webapp | |
 
 ### Week 11
 

@@ -60,7 +60,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 9  | Lecture Video: Bug Algorithms & State Machines | Quiz 1 | |
+| Oct 9  | Lecture Video: [Bug Algorithms & State Machines](https://youtu.be/4wwOCFol9mQ) [[Slides]](https://drive.google.com/file/d/1VcIs7VHxUFt0DIHeMN6faou86F4iLNUU/view?usp=sharing) [[Code](https://robotics102.org/files/lectures/in-class/files/turnstile.cpp)] | Quiz 1 | |
 | Oct 11  | Lecture Video: [Coordinate Frames](https://www.youtube.com/watch?v=mgDlW3UxXts) [[Slides](https://drive.google.com/file/d/1W0i6nqkzXUWdTYAS6NN1-8ODAtk1-gMf/view?usp=sharing)] <br> Lecture Video: Odometry | Checkpoint: Super Mario State Machine Slides| |
 | Oct 13  | | Lab: Hit the Spot [[Slides]](https://drive.google.com/file/d/11KxC_a2oqSGufegIqnSLqUUAaE1I69h_/view?usp=sharing) | |
 

@@ -69,7 +69,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 16 | No Class: Fall Break | | |
-| Oct 18 | | Checkpoint: Project Pseudo Code | |
+| Oct 18 | | Checkpoint: Bug Algorithm Pseudo Code [[Worksheet](https://docs.google.com/document/d/1ys7ODCkFHp-gykT4cPko3VGInDc4cskw2M232Nnb0Tc/edit?usp=sharing) | |
 | Oct 20 | | Work Session: Project 2 | |
 
 ### Week 9

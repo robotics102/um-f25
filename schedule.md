@@ -60,7 +60,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 9  | Lecture Video: [Bug Algorithms & State Machines](https://youtu.be/4wwOCFol9mQ) [[Slides](https://drive.google.com/file/d/1Dd67LYB47rOk8Soq7XubMR9GuhKUgfeM/view?usp=sharing)] [[Code](https://robotics102.org/files/lectures/in-class/files/turnstile.cpp)] | Quiz 1 | |
+| Oct 9  | Lecture Video: [Bug Algorithms & State Machines](https://youtu.be/4wwOCFol9mQ) [[Slides](https://drive.google.com/file/d/1Dd67LYB47rOk8Soq7XubMR9GuhKUgfeM/view?usp=sharing)] [[Turnstile Example Code](https://robotics102.org/files/lectures/in-class/files/turnstile.cpp)] | Quiz 1 | |
 | Oct 11  | Lecture Video: [Coordinate Frames](https://www.youtube.com/watch?v=mgDlW3UxXts) [[Slides](https://drive.google.com/file/d/1W0i6nqkzXUWdTYAS6NN1-8ODAtk1-gMf/view?usp=sharing)] <br> Lecture Video: Odometry | Checkpoint: Super Mario State Machine [[Slides]](https://drive.google.com/file/d/1VcIs7VHxUFt0DIHeMN6faou86F4iLNUU/view?usp=sharing) | |
 | Oct 13  | | Lab: Hit the Spot [[Slides]](https://drive.google.com/file/d/11KxC_a2oqSGufegIqnSLqUUAaE1I69h_/view?usp=sharing) | |
 
@@ -76,16 +76,16 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 23  | Lecture Video: C++ Structs | Checkpoint: Structs Activity | |
-| Oct 25  | Lecture Video: Mapping & Local Search | Robot Localization Workflow | |
+| Oct 23  | Lecture Video: [C++ Vectors and Structs](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] <br> [Car Value Calculator Example Code](https://replit.com/@procj/CarValueCalculator#main.cpp( | Checkpoint: Structs Activity | |
+| Oct 25  | Lecture Video: [Mapping & Local Search](https://youtu.be/ACU7_aSSBnc) [[Slides](https://drive.google.com/file/d/1vSYmnAoEkw_4587LzA714smlD2CLblyM/view?usp=sharing)] | Robot Localization Workflow | |
 | Oct 27  | | Demo Day: Project 2 | Due: Project 2 (Bug Navigation) <br> Out: Project 3 (Path Planning) |
 
 ### Week 10
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Oct 30 | Lecture Video: Global Search I: Breadth First Search | Quiz 2 <br> Checkpoint: Paper Pathfinding in Michigan | |
-| Nov 1 | Lecture Video: Global Search II: A-Star Path Planning | Checkpoint: Replit Pathfinding in Michigan | |
+| Oct 30 | | Quiz 2 <br> Checkpoint: Paper Pathfinding in Michigan [[Slides](https://drive.google.com/file/d/1Yu5EUxVUCPQXgSy-ta_yoYHSqKEnIdxY/view?usp=sharing)] [[Worksheet](https://robotics102.org/files/lectures/in-class/files/graph_search_handout.pdf)] | |
+| Nov 1 |  Lecture Video: [Global Search: Breadth First Search and A-Star](https://youtu.be/km2vORl0FQ4) [[](https://drive.google.com/file/d/186VGjjpD9q911A5l3HfGSFjEiIDStErr/view?usp=sharing)] | Checkpoint: Replit Pathfinding in Michigan | |
 | Nov 3 | | Lab: Using the Navigation Webapp | |
 
 ### Week 11

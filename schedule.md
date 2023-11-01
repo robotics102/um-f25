@@ -85,7 +85,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 30 | Lecture Video: [Mapping & Local Search](https://youtu.be/ACU7_aSSBnc) [[Slides](https://drive.google.com/file/d/1vSYmnAoEkw_4587LzA714smlD2CLblyM/view?usp=sharing)] | Quiz 2 <br> Checkpoint: Paper Pathfinding in Michigan [[Slides](https://drive.google.com/file/d/1Yu5EUxVUCPQXgSy-ta_yoYHSqKEnIdxY/view?usp=sharing)] [[Worksheet](https://robotics102.org/files/lectures/in-class/files/graph_search_handout.pdf)] | |
-| Nov 1 |  Lecture Video: [Global Search: Breadth First Search and A-Star](https://youtu.be/km2vORl0FQ4) [[Slides](https://drive.google.com/file/d/186VGjjpD9q911A5l3HfGSFjEiIDStErr/view?usp=sharing)] | Checkpoint: Replit Pathfinding in Michigan [Instructions](https://hellorob.org/modules/module3#checkpoint-planning-in-michigan--dc--kentucky) [Replit](https://replit.com/@rob102-um-f23/Checkpoint-Planning-in-Michigan) | |
+| Nov 1 |  Lecture Video: [Global Search: Breadth First Search and A-Star](https://youtu.be/km2vORl0FQ4) [[Slides](https://drive.google.com/file/d/186VGjjpD9q911A5l3HfGSFjEiIDStErr/view?usp=sharing)] | Checkpoint: Replit Pathfinding in Michigan [[Instructions](https://hellorob.org/modules/module3#checkpoint-planning-in-michigan--dc--kentucky)] [[Replit](https://replit.com/@rob102-um-f23/Checkpoint-Planning-in-Michigan)] | |
 | Nov 3 | | Lab: Using the Navigation Webapp | |
 
 ### Week 11

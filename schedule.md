@@ -92,7 +92,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 6 | Lecture Video: Machine Learning & Image Classification | Object Detection with Deep Learning | |
+| Nov 6 | Lecture Video: [Machine Learning & Image Classification](https://youtu.be/5d-itzj9VuQ) [[Slides](https://drive.google.com/file/d/1E1piimfrlxakmYVVZ_Vumg2CBNy3qmvk/view?usp=share_link)] | Object Detection with Deep Learning | |
 | Nov 8 | Lecture Video: Introduction to Python | Checkpoint: Pocket Calculator in Python | |
 | Nov 10 | | Lab: Robot Camera & the MBot Python API | |
 

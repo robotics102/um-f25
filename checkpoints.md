@@ -34,10 +34,10 @@ These checkpoints can be submitted for points towards the final course grade. Th
 | Sept 27 | Follow Me 2D [[Instructions](https://hellorob.org/modules/module1#2d-follow-me)] <br/> **Demo:** To get credit for this activity, demonstrate your robot maintaining a setpoint distance from a 2D obstacle like a pole or your legs. | 1 point | Oct 6 |
 | Oct 9 | Super Mario State Machine [[Slides]](https://drive.google.com/file/d/1VcIs7VHxUFt0DIHeMN6faou86F4iLNUU/view?usp=sharing) | 1 point | Oct 27 |
 | Oct 18 | FSM Pseudocode [[Instructions]](https://docs.google.com/document/d/1ys7ODCkFHp-gykT4cPko3VGInDc4cskw2M232Nnb0Tc/edit?usp=sharing) | 1 point | Oct 27 |
-| Oct 23 | Structs Activity | 1 point | Oct 27 |
+| Oct 23 | Structs Activity [[Replit Project]](https://replit.com/@rob102-um-f23) | 1 point | Oct 27 |
 | Oct 30 | Paper Pathfinding in Michigan | 1 point | Nov 20 |
-| Nov 1 | Replit Pathfinding in Michigan | 1 point | Nov 20 |
-| Nov 8 | Pocket Calculator in Python | 1 point | Dec 8 |
+| Nov 1 | Replit Pathfinding in Michigan [[Replit Project]](https://replit.com/@rob102-um-f23) | 1 point | Nov 20 |
+| Nov 8 | Pocket Calculator in Python [[Replit Project]](https://replit.com/@rob102-um-f23) | 1 point | Dec 8 |
 | Nov 15 | Image Distance in Python | 1 point | Dec 8 |
 
 ## Practice Activities

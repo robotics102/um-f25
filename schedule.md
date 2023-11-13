@@ -100,7 +100,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 13 | Demo Preparation | Robot Camera & the MBot Python API | |
+| Nov 13 | | Robot Camera & the MBot Python API | |
 | Nov 15 | Lecture Video: Python Matrices and NumPy | Checkpoint: Image Distance in Python | |
 | Nov 17 | | Demo Day: Project 3 | |
 
@@ -108,7 +108,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: K-Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
+| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
 | Nov 22 | No Class: Thanksgiving Break
 | Nov 24 | No Class: Thanksgiving Break
 

@@ -77,7 +77,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Oct 23  | Lecture Video: [C++ Vectors and Structs](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] <br> [Car Value Calculator Example Code](https://replit.com/@procj/CarValueCalculator#main.cpp) | Checkpoint: Structs Activity | |
-| Oct 25  |  | Robot Localization Workflow | |
+| Oct 25  | | Robot Localization Workflow [[Tutorial]](https://hellorob.org/mbot/mapping#3-build-a-map)| |
 | Oct 27  | | Demo Day: Project 2 | Due: Project 2 (Bug Navigation) <br> Out: Project 3 (Path Planning) |
 
 ### Week 10
@@ -100,15 +100,15 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 13 | | Robot Camera & the MBot Python API | |
-| Nov 15 | Lecture Video: Python Matrices and NumPy | Checkpoint: Image Distance in Python | |
+| Nov 13 | [Nearest Neighbors](https://youtu.be/jqY1ouWt2RA) [[Slides]](https://drive.google.com/file/d/1VgvzoOLH4irS9f9wFgjQkdZFBieFy2kk/view?usp=share_link) | Work Session: Project 3 | |
+| Nov 15 | | Work Session: Project 3 | |
 | Nov 17 | | Demo Day: Project 3 | |
 
 ### Week 13
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 20 |  Lecture Video: Nearest Neighbors | Quiz 3 <br> Work Session: Nearest Neighbors | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning)|
+| Nov 20 | | Quiz 3 <br> Work Session: Project 3 | |
 | Nov 22 | No Class: Thanksgiving Break
 | Nov 24 | No Class: Thanksgiving Break
 
@@ -116,7 +116,7 @@ ROB 102, Fall 2023 at The University of Michigan
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: ML Training with SciKit | |
+| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: ML Training with SciKit | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning) |
 | Nov 29 | | Work Session: Project 4 | |
 | Dec 1 | | Work Session: Project 4 | |
 

@@ -54,7 +54,7 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Oct 2  | Demo Preperation | Demo Day: Project 1 | |
 | Oct 4  | No Class: [IROS 2023 in Detroit](https://ieee-iros.org/){:target="_blank"} | |
-| Oct 6  | | Work Session: Project 2 | Due: Project 1 (Wall Follower) <br> Out: Project 2 (Bug Navigation) |
+| Oct 6  | | Work Session: Project 2 | Due: [Project 1 (Wall Follower)](https://robotics102.org/projects/a1.html) <br> Out: [Project 2 (Bug Navigation)](https://robotics102.org/projects/a2.html) |
 
 ### Week 7
 
@@ -78,7 +78,7 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Oct 23  | Lecture Video: [C++ Vectors and Structs](https://www.youtube.com/watch?v=4Hfr6zcVHFo) [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] <br> [Car Value Calculator Example Code](https://replit.com/@procj/CarValueCalculator#main.cpp) | Checkpoint: Structs Activity | |
 | Oct 25  | | Robot Localization Workflow [[Tutorial]](https://hellorob.org/mbot/mapping#3-build-a-map)| |
-| Oct 27  | | Demo Day: Project 2 | Due: Project 2 (Bug Navigation) <br> Out: Project 3 (Path Planning) |
+| Oct 27  | | Demo Day: Project 2 | Due: [Project 2 (Bug Navigation)](https://robotics102.org/projects/a2.html) <br> Out: [Project 3 (Path Planning)](https://robotics102.org/projects/a3.html) |
 
 ### Week 10
 
@@ -102,28 +102,28 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Nov 13 | [Nearest Neighbors](https://youtu.be/jqY1ouWt2RA) [[Slides]](https://drive.google.com/file/d/1VgvzoOLH4irS9f9wFgjQkdZFBieFy2kk/view?usp=share_link) | Work Session: Project 3 | |
 | Nov 15 | | Work Session: Project 3 | |
-| Nov 17 | | Demo Day: Project 3 | |
+| Nov 17 | | Work Session: Project 3 | |
 
 ### Week 13
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 20 | | Quiz 3 <br> Work Session: Project 3 | |
-| Nov 22 | No Class: Thanksgiving Break
-| Nov 24 | No Class: Thanksgiving Break
+| Nov 22 | No Class: Thanksgiving Break | | |
+| Nov 24 | No Class: Thanksgiving Break | | |
 
 ### Week 14
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Nov 27 | Lecture Video: Optimization & Neural Networks | Work Session: ML Training with SciKit | Due: Project 3 (Path Planning) <br> Out: Project 4 (Machine Learning) |
-| Nov 29 | | Work Session: Project 4 | |
+| Nov 27 | | Demo Day: Project 3 | Due: [Project 3 (Path Planning)](https://robotics102.org/projects/a3.html) <br> Out: [Project 4 (Machine Learning)](https://robotics102.org/projects/a4.html) |
+| Nov 29 | [Optimization & Neural Networks](https://youtu.be/vs1uMORf3TU) [[Slides](https://drive.google.com/file/d/1DI8RfWsfSRp1cqesB5TarNUJpF0ZP3wn/view?usp=share_link)] | Work Session: ML Training with SciKit | |
 | Dec 1 | | Work Session: Project 4 | |
 
 ### Week 15
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
-| Dec 4 | Demo Preparation | Course Recap & Feedback | |
-| Dec 6 | Demo Preparation | Demo Day: Project 4 | |
-| Dec 8 | | Work session: Project 4 | Due: Project 4 (Machine Learning) |
+| Dec 4 | | Course Recap & Feedback <br> Work Session: Project 4 | |
+| Dec 6 | | Work Session: Project 4 | |
+| Dec 8 | | Demo Day: Project 4 | Due: [Project 4 (Machine Learning)](https://robotics102.org/projects/a4.html) |

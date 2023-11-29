@@ -17,4 +17,4 @@ ROB 102, Fall 2022 at The University of Michigan
 * [Project 1](https://robotics102.org/um-f23/projects/p1.html): Wall Following
 * [Project 2](https://robotics102.org/um-f23/projects/p2.html): Bug Navigation
 * Project 3: Path Planning
-* Project 4: Machine Learning
+* [Project 4](https://robotics102.org/um-f23/projects/p4.html): Machine Learning

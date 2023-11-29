@@ -117,7 +117,7 @@ ROB 102, Fall 2023 at The University of Michigan
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
 | Nov 27 | | Demo Day: Project 3 | Due: [Project 3 (Path Planning)](https://robotics102.org/projects/a3.html) <br> Out: [Project 4 (Machine Learning)](https://robotics102.org/projects/a4.html) |
-| Nov 29 | [Optimization & Neural Networks](https://youtu.be/vs1uMORf3TU) [[Slides](https://drive.google.com/file/d/1DI8RfWsfSRp1cqesB5TarNUJpF0ZP3wn/view?usp=share_link)] | Work Session: ML Training with SciKit | |
+| Nov 29 | [Optimization & Neural Networks](https://youtu.be/vs1uMORf3TU) [[Slides](https://drive.google.com/file/d/1DI8RfWsfSRp1cqesB5TarNUJpF0ZP3wn/view?usp=share_link)] | Work Session: Project 4 | |
 | Dec 1 | | Work Session: Project 4 | |
 
 ### Week 15

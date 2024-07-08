@@ -1,8 +1,8 @@
-title: ROB 102 @ UM F23
-description: University of Michigan offering of Robotics 102 in Fall 23
+title: ROB 102 @ UM F24
+description: University of Michigan offering of Robotics 102 in Fall 24
 theme: just-the-docs
 
-url: https://robotics102.org/um-f23
+url: https://robotics102.org/um-f24
 baseurl: '' # the subpath of your site, e.g. /blog
 
 favicon_ico: "/assets/images/icon.png"
@@ -11,11 +11,10 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "HelloRob": https://hellorob.org/
-  "Slack": https://um-engin-rob102.slack.com
-  "Replit": https://replit.com/team/rob102-um-f23
-  "Gradescope": https://www.gradescope.com/courses/590436
-  "GitHub Classroom": https://classroom.github.com/classrooms/88513786-robotics102-f23-classroom
+  "HelloRob": https://hellorob.org
+  "PrairieLearn":
+  "Piazza":
+  "Autograder":
   "MBot IP": https://github.com/robotics102/mbot_ip_registry/tree/main/data
 
 # Makes Aux links open in a new tab. Default is false

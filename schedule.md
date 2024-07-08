@@ -5,10 +5,12 @@ nav_order: 2
 ---
 
 # Course Schedule
-ROB 102, Fall 2023 at The University of Michigan
+ROB 102, Fall 2024 at The University of Michigan
 {: .fs-6 .fw-300 }
 
-### Week 1
+*coming soon*
+ 
+<!-- ### Week 1
 
 | Date | Pre-Class Lecture | In-class Activities | Project |
 |--|--|--|--|
@@ -126,4 +128,4 @@ ROB 102, Fall 2023 at The University of Michigan
 |--|--|--|--|
 | Dec 4 | | Course Recap & Feedback <br> Work Session: Project 4 | |
 | Dec 6 | | Work Session: Project 4 | |
-| Dec 8 | | Demo Day: Project 4 | Due: [Project 4 (Machine Learning)](https://robotics102.org/projects/a4.html) |
+| Dec 8 | | Demo Day: Project 4 | Due: [Project 4 (Machine Learning)](https://robotics102.org/projects/a4.html) | -->

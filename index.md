@@ -5,10 +5,10 @@ nav_order: 1
 ---
 # Introduction to AI and Programming
 {: .no_toc }
-ROB 102, Fall 2023 at the University of Michigan
+ROB 102, Fall 2024 at the University of Michigan
 {: .fs-6 .fw-300 }
 
-This is the course page for the Fall 2023 offering of [Hello, Robot! Introduction to AI and Programming](https://hellorob.org){:target="_blank"} at the University of Michigan. This site contains information relevant to Michigan students.
+This is the course page for the Fall 2024 offering of [Hello, Robot! Introduction to AI and Programming](https://hellorob.org){:target="_blank"} at the University of Michigan. This site contains information relevant to Michigan students.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,11 +18,13 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 
 # Meeting Times
 
-<i class="fa-solid fa-chalkboard-user"></i> **Lectures:** M & W 3-4:30 PM @ FRB 1050
+<i class="fa-solid fa-chalkboard-user"></i> **Lectures:** 
+
+*coming soon*
 
 <i class="fa-solid fa-flask"></i> **Labs:**
-* F 12:30-2:30 PM @ FRB 1050
-* F 2:30-4:30 PM @ FRB 1050
+
+*coming soon*
 
 # Instructors
 
@@ -57,9 +59,8 @@ This is the course page for the Fall 2023 offering of [Hello, Robot! Introductio
 
 # Office Hours
 
-Office hours will be held in **FRB 2000** and on **Zoom** (Link pinned in Slack).
+Office hours will be held in **FRB 2000** and on **Zoom**.
 
 The schedule can be found below.
-You can also access the calendar or add it to your calendar using [this link](https://calendar.google.com/calendar/u/0?cid=Y19mODgzMzJhMDg1NWZjZGE4ODY1OGYxMjZjMTZjMDc0NmUyZmUxZmQ3M2RjNzFjODUwOWVhZjYxMzQ2NzU3M2JjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_f88332a0855fcda88658f126c16c0746e2fe1fd73dc71c8509eaf613467573bc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+*coming soon*

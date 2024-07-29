@@ -12,12 +12,21 @@ Project 2
 
 ## Instructions
 
-* What files to program in.
-* Which Tasks to complete.
-* Context / guiding advice (e.g. look at these functions in the MBot API, etc.).
+This is the final checkpoint for the bug navigation project. In this checkpoint you will implement a function for checking whether the straight line path to a goal pose is obstructed. You will then use this function as a transition condition between the two states in the bug navigation state machine. The first state will drive in a straight line to the goal, like you implemented in [Robot Hits the Spot](https://robotics102.org/um-f24/project_2/2_hit_the_spot.html). The second state will wall follow around an obstruction, like you implemented in [Wall Follower](https://robotics102.org/um-f24/project_1/5_wall_follower.html). Complete the following:
+
+- Implement ```isGoalAngleObstructed()``` in ```mbot_lib/mbot_lib/behaviors.cpp``` according to the header file ```mbot_lib/mbot_lib/behaviors.h```.
+- Implement bug navigation in ```p2_bug_navigation/3_bug_navigation.cpp``` so that the robot performs the behavior specified below.
+
+For ```isGoalAngleObstructed()```, you'll want to make use of the ```findMinNonzeroDistInSlice()``` utility function which is provided for you in ```mbot_lib/mbot_lib/utils.h```. This function can be best understood using the diagram below.
+
+![findMinNonzeroDistInSlice()](/assets/images/p2/find_min_in_slice.png){:style="width:400px;" .centered .rd-corners}
+
+Using it in ```isGoalAngleObstructed()``` should make checking for obstacles near the robot in the direction of the goal pose much easier. For implementing the state machine you will want to make use of all the functions in ```mbot_lib/mbot_lib/behaviors.cpp```.
 
 ## Testing and Expected Behavior
 
-* Specific test cases for this checkpoint if any.
-* Specific description of expected robot behavior.
-* No listing of specific point values, Autograder.io is only official source of grading information. 
+There are no unit tests for this checkpoint.
+
+The robot behavior can be tested by running the ```bug_navigation```. The terminal should ask for the user to input values for an (x, y, theta) goal pose. The robot should then drive in a straight line to the goal pose. When it comes within a small distance (under 1 meter) of an obstacle it should begin wall following around the obstacle. When the goal pose can again be driven to in a straight line, the robot should resume driving straight.  Finally the terminal should output the final odometry position of the robot. The final odometry pose should be very close (within a centimeter and 0.15 radians) to the input goal pose. A demonstration of this behavior is shown in the video below.
+
+<iframe style="max-width: 100%;" class="centered" width="560" height="315" src="https://www.youtube.com/embed/WvheWNQ9LaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

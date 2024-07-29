@@ -24,6 +24,6 @@ You may want to look up or derive the angles associated with a five pointed star
 
 ## Testing and Expected Behavior
 
-The functions can be tested by running the local unit tests. 
+The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R RayConversionCartisean && ctest -R RayConversionVector --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```drive_star``` executable. The robot should drive in an equilateral five pointed star shape without spinning.

@@ -14,7 +14,7 @@ Project 1 Checkpoint
 
 In this checkpoint you will use iteration to drive the robot in a square. Complete the following:
 
-- Implement drive square in ```p1_wall_follower/1_drive_square.cpp``` so that the robot performs the behavior below.
+- Implement drive square in ```p1_wall_follower/1_drive_square.cpp``` so that the robot performs the behavior specified below.
 
 You'll need to use the [MBot Bridge API](https://hellorob.org/mbot/bridge-api) to send drive commands. 
 

@@ -18,11 +18,11 @@ In this checkpoint you will implement bang-bang control and p-control and then u
 - Implement ```pControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
 - Implement follow me 1D in ```p1_wall_follower/2_follow_1d.cpp``` so that the robot performs the behavior specified below.
 
-Remember to check out the [MBot Bridge API](https://hellorob.org/mbot/bridge-api).
+Remember to check out the [MBot Bridge API](https://hellorob.org/mbot/bridge-api). Feel free to use either ```bangBangControl()``` or ```pControl()``` to implement follow me 1D.
 
 ## Testing and Expected Behavior
 
-The functions can be tested by running the local unit tests. 
+The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R BangBangControl && ctest -R PControl --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```follow_1d``` executable. The robot should follow an obstacle in the forward/backward (x) direction as shown in the video below.
 

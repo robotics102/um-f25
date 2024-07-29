@@ -40,7 +40,7 @@ You can refer back to the [Git Tutorial](https://hellorob.org/tutorials/git) on 
 
 ## Testing Your Code
 
-There are two ways to test your code in this course: running unit tests and checking output, and running code on the robot and observing its behavior. Make sure the unit tests for any functions you are using pass before you attempt to run code on the robot. 
+There are two ways to test your code in this course: running unit tests and checking output, and running code (usually on the robot) and observing its behavior. Make sure the unit tests for any functions you are using pass before you attempt to run code (on the robot). 
 
 To run your unit tests follow the steps below. 
 
@@ -48,7 +48,7 @@ To run your unit tests follow the steps below.
 * Go down into the ```build``` directory of your repository by running ```cd build```.
 * Run ```ctest --output-on-failure``` and read the output to see if all the tests for any functions you have implemented passed.
 
-To run your code on the robot follow the steps below.
+To run your code (on the robot) follow the steps below.
 
 * Navigate to the root directory of your repository using ```cd``` and make sure your code has been built, following the steps above. 
 * Go down into the ```build``` directory of your repository by running ```cd build```.
@@ -62,8 +62,8 @@ The name of the executable and the expected behavior of the robot should be desc
 
 You must submit your code in order for it to be graded. 
 
-Your code will be graded in almost exactly the same way as you tested it. The test cases you have locally will be run along with another set of test cases that have a similar structure, but different values. We call the tests you already have *public tests* and the ones we're hiding from you *private tests*. Public tests will run automatically when you submit your code. Private tests will only run after the project deadline.  
+Your code will be graded in almost exactly the same way as you tested it. The test cases you have locally will be run along with another set of test cases that have a similar structure, but different values. We call the tests you already have *public tests* and the ones we're hiding from you *private tests*. Both tests suites will be run on your code when you submit on [Autograder.io](https://autograder.io/). You will know exactly what your code did wrong if you fail public tests because you can see the output locally, but you won't know exactly what went wrong if you fail the private tests. This is intentional.
 
-To grade the performance of your robot, we need to see of video of it working. Take a video of your robot exhibiting the expected behavior and upload it to your Umich Google Drive. Please keep the video under 30 seconds. Copy the sharing link, and paste it in the appropriate spot in your ```README.md``` file. **Make sure the sharing settings make your video available to anyone with the link**. We will hand grade your demo videos after the project deadline.
+To grade the performance of your robot, we need to see of video of it working. Take a video of your robot exhibiting the expected behavior and upload it to your Umich Google Drive. Please keep the video under 30 seconds. Copy the sharing link, and paste it in the appropriate spot in your ```README.md``` file. **Make sure the sharing settings make your video available to anyone with the link**. We will hand grade your demo videos after the project deadline. You will be able to see the grades for your demo videos via the handgrading rubric on [Autograder.io](https://autograder.io/).
 
 To submit your code navigate to the project on [Autograder.io](https://autograder.io/) and submit the requested files. 

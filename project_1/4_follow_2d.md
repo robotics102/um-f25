@@ -25,7 +25,7 @@ Feel free to look back at how you implemented follow me 1D.
 
 ## Testing and Expected Behavior
 
-The functions can be tested by running the local unit tests. 
+The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R FindMinDist && ctest -R FindMinNonzeroDist --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```follow_2d``` executable. The robot should follow the nearest obstacle without spinning, as shown in the video below.
 

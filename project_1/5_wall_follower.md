@@ -16,10 +16,13 @@ This is the final checkpoint for the wall following project. In this checkpoint 
 
 - Implement ```vectorAdd()``` in ```mbot_lib/mbot_lib/utils.cpp``` according to the header file ```mbot_lib/mbot_lib/utils.h```.
 - Implement ```crossProduct()``` in ```mbot_lib/mbot_lib/utils.cpp``` according to the header file ```mbot_lib/mbot_lib/utils.h```.
+- Implement ```computeWallFollowerCommand()``` in ```mbot_lib/mbot_lib/behaviors.cpp``` according to the header file ```mbot_lib/mbot_lib/behaviors.h```.
 - Implement wall following in ```p1_wall_follower/5_wall_follower.md``` so that the robot performs the behavior specified below.
+
+The functions ```vectorAdd()``` and ```crossProduct()``` as well as functions from earlier checkpoints will come in handy for implementing ```computeWallFollowerCommand()```.
 
 ## Testing and Expected Behavior
 
-The functions can be tested by running the local unit tests. 
+The functions ```vectorAdd()``` and ```crossProduct()``` can be tested by running the local unit tests. The function ```computeWallFollowerCommand()``` is not unit tested and is simply provided to help you structure your code so that it can be reused in project 2. To test only the functions for this checkpoint run ```ctest -R VectorAdd && ctest -R CrossProduct --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```wall_follower``` executable. The robot should drive parallel to the nearest obstacle and maintain a set distance between itself and the nearest obstacle. Going left or right in parallel with the obstacle are both valid behaviors. You can choose which direction to wall follow in at your discretion. 

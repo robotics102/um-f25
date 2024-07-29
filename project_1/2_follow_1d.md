@@ -18,9 +18,7 @@ In this checkpoint you will implement bang-bang control and p-control and then u
 - Implement ```pControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
 - Implement follow me 1D in ```p1_wall_follower/2_follow_1d.cpp``` so that the robot performs the behavior specified below.
 
-[MBot Bridge API](https://hellorob.org/mbot/bridge-api).
-
-- *Hint: thign*
+Remember to check out the [MBot Bridge API](https://hellorob.org/mbot/bridge-api).
 
 ## Testing and Expected Behavior
 

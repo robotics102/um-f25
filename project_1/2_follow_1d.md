@@ -12,12 +12,20 @@ Project 1 Checkpoint
 
 ## Instructions
 
-* What files to program in.
-* Which Tasks to complete.
-* Context / guiding advice (e.g. look at these functions in the MBot API, etc.).
+In this checkpoint you will implement bang-bang control and p-control and then use them to control the robot in one direction. You'll use these feedback controllers across many parts of projects 1 and 2. First implement the feedback controllers such that they pass the unit tests. Then implement follow me 1D. Complete the following:
+
+- Implement ```bangBangControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
+- Implement ```pControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
+- Implement follow me 1D in ```p1_wall_follower/2_follow_1d.cpp``` so that the robot performs the behavior specified below.
+
+[MBot Bridge API](https://hellorob.org/mbot/bridge-api).
+
+- *Hint: thign*
 
 ## Testing and Expected Behavior
 
-* Specific test cases for this checkpoint if any.
-* Specific description of expected robot behavior.
-* No listing of specific point values, Autograder.io is only official source of grading information. 
+The functions can be tested by running the local unit tests. 
+
+The robot behavior can be tested by running the ```follow_1d``` executable. The robot should follow an obstacle in the forward/backward (x) direction as shown in the video below.
+
+<iframe style="max-width: 100%;" class="centered" width="560" height="315" src="https://www.youtube.com/embed/Y2b7c88kBR8?si=dsbJL7shes1BAtYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>

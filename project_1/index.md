@@ -11,17 +11,24 @@ has_toc: false
 Project 1
 {: .fs-6 .fw-300 }
 
+## Teams
+
+Project 1 and project 2 will be done in in teams of two with the same teams for both projects. First get team assignments from your instructor. Then follow the instructions for **Getting Your Code** and **Setting Up Your Repository** below. Only one teammate needs to execute these steps. Once your repository is set up the other teammate can simply [clone the repository](https://hellorob.org/tutorials/git#sec_clone).
+
 ## Getting Your Code
 
-To get your starter code for this module download the files by clicking [here](/assets/template_code/p1_and_p2_template.zip) and extracting them, or by running the commands below in your terminal. 
+Project 1 and project 2 use the same codebase. To get your starter code download the files by clicking [here](https://robotics102.org/um-f24/assets/template_code/p1_and_p2_template.zip) and extracting them, or by running the commands below in your terminal. 
 
 * Navigate to a directory that is not already a git repository using ```cd```. If running ```git status``` outputs ```fatal: ...``` you're not in a git repository.
-* Download the files from the website ```wget https...```.
-* Unzip the files ```unzip...```. 
+* Download the files from the website ```wget https://robotics102.org/um-f24/assets/template_code/p1_and_p2_template.zip```.
+* Unzip the files ```unzip p1_and_p2_template.zip```.
+* Delete the zip archive ```rm p1_and_p2_template.zip```. 
 
 ## Setting Up Your Repository
 
-To be able to easily transfer your code between your laptop and your robot, you'll want to create a local git repository in the folder you just downloaded, create a remote repository on GitHub, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Creating a New Repository tutorial]() to complete these steps. You can refer back to the [GitHub tutorial]() to refresh on general git and GitHub usage. 
+To be able to easily transfer your code between your laptop and your robot, you'll want to create a remote repository on GitHub, create a local git repository in the folder you just downloaded, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Setting Up a Repository](https://robotics102.org/um-f24/workflows/setting_up_repo.html) to complete these steps. 
+
+You can refer back to the [Git Tutorial](https://hellorob.org/tutorials/git) on HelloRob to refresh on general Git and GitHub usage. 
 
 ## Building Your Code
 
@@ -57,6 +64,6 @@ You must submit your code in order for it to be graded.
 
 Your code will be graded in almost exactly the same way as you tested it. The test cases you have locally will be run along with another set of test cases that have a similar structure, but different values. We call the tests you already have *public tests* and the ones we're hiding from you *private tests*. Public tests will run automatically when you submit your code. Private tests will only run after the project deadline.  
 
-To grade the performance of your robot, we need to see of video of it working. Take a video of your robot exhibiting the expected behavior and upload it to your Umich Google Drive. Please keep the video under 30 seconds. Copy the sharing link, and paste it in the appropriate spot in your ```README.md``` file. Make sure the sharing settings make your video available to anyone with the link. Finally, update the date of your link to the date of your submission. We will view any updated videos and grade them within a few days. 
+To grade the performance of your robot, we need to see of video of it working. Take a video of your robot exhibiting the expected behavior and upload it to your Umich Google Drive. Please keep the video under 30 seconds. Copy the sharing link, and paste it in the appropriate spot in your ```README.md``` file. **Make sure the sharing settings make your video available to anyone with the link**. We will hand grade your demo videos after the project deadline.
 
-To submit your code navigate to the project on [Autograder.io]() and submit the requested files. 
+To submit your code navigate to the project on [Autograder.io](https://autograder.io/) and submit the requested files. 

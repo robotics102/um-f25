@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Tutorials
+title: Workflows
 nav_order: 9
 has_children: true
 has_toc: true
 ---
 
-# Tutorials
+# Workflows
 {: .no_toc }
-Tutorials for Fall 2024
+Workflow Guides for Fall 2024
 {: .fs-6 .fw-300 }
 

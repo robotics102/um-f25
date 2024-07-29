@@ -12,12 +12,14 @@ Project 1
 
 ## Instructions
 
-* What files to program in.
-* Which Tasks to complete.
-* Context / guiding advice (e.g. look at these functions in the MBot API, etc.).
+This is the final checkpoint for the wall following project. In this checkpoint you will implement functions for adding vectors and taking the cross product between vectors. You will then use these and code from previous checkpoints to implement wall following. Complete the following:
+
+- Implement ```vectorAdd()``` in ```mbot_lib/mbot_lib/utils.cpp``` according to the header file ```mbot_lib/mbot_lib/utils.h```.
+- Implement ```crossProduct()``` in ```mbot_lib/mbot_lib/utils.cpp``` according to the header file ```mbot_lib/mbot_lib/utils.h```.
+- Implement wall following in ```p1_wall_follower/5_wall_follower.md``` so that the robot performs the behavior specified below.
 
 ## Testing and Expected Behavior
 
-* Specific test cases for this checkpoint if any.
-* Specific description of expected robot behavior.
-* No listing of specific point values, Autograder.io is only official source of grading information. 
+The functions can be tested by running the local unit tests. 
+
+The robot behavior can be tested by running the ```wall_follower``` executable. The robot should drive parallel to the nearest obstacle and maintain a set distance between itself and the nearest obstacle. Going left or right in parallel with the obstacle are both valid behaviors. You can choose which direction to wall follow in at your discretion. 

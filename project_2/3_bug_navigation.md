@@ -19,7 +19,7 @@ This is the final checkpoint for the bug navigation project. In this checkpoint 
 
 For ```isGoalAngleObstructed()```, you'll want to make use of the ```findMinNonzeroDistInSlice()``` utility function which is provided for you in ```mbot_lib/mbot_lib/utils.h```. This function can be best understood using the diagram below.
 
-![findMinNonzeroDistInSlice()](/assets/images/p2/find_min_in_slice.png){:style="width:400px;" .centered .rd-corners}
+![findMinNonzeroDistInSlice()](https://robotics102.org/um-f24/assets/images/p2/find_min_in_slice.png){:style="width:400px;" .centered .rd-corners}
 
 Using it in ```isGoalAngleObstructed()``` should make checking for obstacles near the robot in the direction of the goal pose much easier. For implementing the state machine you will want to make use of all the functions in ```mbot_lib/mbot_lib/behaviors.cpp```.
 

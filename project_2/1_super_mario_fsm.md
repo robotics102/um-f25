@@ -29,7 +29,7 @@ Mario starts off Regular Mario (`m`), and encounters events. Events are represen
 
 This is a Finite State Machine that can be visualized as follows:
 
-![Super Mario FSM](/assets/images/p2/super_mario_fsm.jpg){:style="width:800px;" .centered .rd-corners}
+![Super Mario FSM](https://robotics102.org/um-f24/assets/images/p2/super_mario_fsm.jpg){:style="width:800px;" .centered .rd-corners}
 
 A good way to structure your code is to use a ```switch()``` statement to switch between code that should run in each state. Inside each case you may need another ```switch()``` statement to decide how the state should transition based on the ```currentEvent```. The Dead Mario state is handled for you.
 

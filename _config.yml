@@ -13,8 +13,8 @@ search_enabled: false
 aux_links:
   "HelloRob": https://hellorob.org
   "PrairieLearn":
+  "Autograder.io":
   "Piazza":
-  "Autograder":
   "MBot IP": https://github.com/robotics102/mbot_ip_registry/tree/main/data
 
 # Makes Aux links open in a new tab. Default is false

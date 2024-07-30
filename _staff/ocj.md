@@ -1,5 +1,5 @@
 ---
-name: Prof. Chad Jenkins
+name: Chad Jenkins
 role: Instructor
 email: ocj@umich.edu
 website: https://ocj.name/

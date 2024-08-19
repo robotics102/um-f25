@@ -12,10 +12,9 @@ search_enabled: false
 # Aux links for the upper right navigation
 aux_links:
   "HelloRob": https://hellorob.org
-  "PrairieLearn":
-  "Autograder.io":
-  "Piazza":
-  "MBot IP": https://github.com/robotics102/mbot_ip_registry/tree/main/data
+  "PrairieLearn": https://us.prairielearn.com/
+  "Autograder.io": https://autograder.io/
+  "Piazza": https://piazza.com/umich/fall2024/rob102fa2024
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

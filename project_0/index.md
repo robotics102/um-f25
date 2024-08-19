@@ -19,7 +19,7 @@ Project 0 will be done individually on your laptop. Feel free to chat with other
 
 Make sure you've completed the [Computer Setup](https://robotics102.org/um-f24/workflows/computer_setup.html) guide before continuing! 
 
-Project 0 has it's own codebase. To get your starter code download the files by clicking [here](https://robotics102.org/um-f24/assets/template_code/p0_template.zip) and extracting them, or by running the commands below in your terminal. 
+Project 0 has it's own codebase. To get your starter code download the files by clicking [here](https://robotics102.org/um-f24/assets/template_code/p0_pocket_calculator_template.zip) and extracting them, or by running the commands below in your terminal. 
 
 * Navigate to a directory that is not already a git repository using ```cd```. If running ```git status``` outputs ```fatal: ...``` you're not in a git repository.
 * Download the files from the website ```wget https://robotics102.org/um-f24/assets/template_code/p0_pocket_calculator_template.zip```.

@@ -11,7 +11,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 1
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | August 26	| | Course Initialization <br> MBot Navigation / P4 Demo <br> Piazza Enrollment <br> Student Workflow Survey <br> PrairieLearn Enrollment <br> VSCode Setup <br> Hello World! LRQ | |
 | August 28 | C++ Operators and Variables LRQ | First C++ Programs | Project 0 Release |
@@ -19,7 +19,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 2
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 2 | | Labor day | |
 | September 4 |	Branching and Iteration LRQ | Eliza102 | |
@@ -27,7 +27,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 3
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 9 | | Calculator FSM Review <br> Single-operation Calculator <br> Feedback Control | |
 | September 11 | C++ Functions LRQ | Bang-Bang Control Review <br> Follow Me 1D <br> C++ Functions | |
@@ -35,15 +35,15 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 4
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 16 | Omnidrive Geometry LRQ | Laser Rangefinding <br> Laser Ray Conversion | |
+| September 16 | Omnidrive Geometry LRQ | Laser Rangefinding <br> Laser Ray Conversion | Project 0 Deadline |
 | September 18 | C++ Vectors LRQ | Omnidrive Review <br> Drive Star <br> C++ Vectors | |
 | September 20 | | Lab: C++ Review | |
 
 ### Week 5
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 23 | 3D Vector Math LRQ | Quiz 0 <br> Find Minimum Value | | 
 | September 25 | | Vector Math Review <br> Follow Me 2D <br> Vector Sum and Cross product | |
@@ -51,15 +51,15 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 6
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 30 | Bug Navigation & Finite State Machines LRQ | Project 1 Demo Session | Project 2 Release |
-| October 2 | Coordinate Frames LRQ | FSMs for Turnstile <br> Super Mario FSM | |	
+| October 2 | Coordinate Frames LRQ | FSMs for Turnstile <br> Super Mario FSM | Project 1 Deadline |	
 | October 4 | | Lab: Hit the Spot / Odometry | |
 
 ### Week 7
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 7 | | Quiz 1 <br> Obstacle Slice Detection | |
 | October 9 | | Bug Algorithm Pseudocode | |
@@ -67,7 +67,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 8
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 14 | | Fall Study Break | |
 | October 16 | C++ Structs LRQ | Quiz 2 <br> C++ Structs | |
@@ -75,15 +75,15 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 9
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 21 | Mapping and Local Search LRQ| C++ Structs Review <br> Car Value Calculator | |
 | October 23 | Global Search: BFS & A* LRQ | Pathfinding in Michigan <br> Michigan BFS Worksheet | |
-| October 25 | | Project 2 Demo Session | Project 3 Release |
+| October 25 | | Project 2 Demo Session | Project 2 Deadline <br> Project 3 Release |
 
 ### Week 10
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 28 | | Michigan BFS Review <br> Michigan BFS C++ Program | |
 | October 30 | Machine Learning LRQ | Project 3 Work Session | |
@@ -91,7 +91,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 11
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | November 4 | Python LRQ | Deep Learning Demonstration <br> Project 3 Work Session | Project 4 Release |
 | November 6 | Nearest Neighbors LRQ | Python Review <br> Python Pocket Calculator | |
@@ -99,7 +99,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 12
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | November 11 | | Nearest Neighbors Review <br> Image Distance in Python | |
 | November 13 | Neural Network Training LRQ | Project 3 Work Session | |
@@ -107,15 +107,15 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 13
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | November 18 | | Neural Network Training Review <br> Machine Learning / SciKit Learn | |
 | November 20 | | Quiz 3 | |
-| November 22 | | Project 3 Work Session | |
+| November 22 | | Project 3 Work Session | Project 3 Deadline |
 
 ### Week 14
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | November 25 | | Project 3 Demo Session | |
 | November 27 | | Thanksgiving Break | |
@@ -123,7 +123,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 15
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | December 2 | | Handwritten Digit Dataset | |
 | December 4 | | Quiz 4 | |
@@ -131,6 +131,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 16
 
-| Date | Pre-Class Lecture | In-class Activities | Project |
+| Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | December 9 | | Project 4 Demo Session | |
+| December 12 | | No Class | Project 4 Deadline |

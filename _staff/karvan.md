@@ -1,6 +1,6 @@
 ---
 name: Karthik Vairavan
-role: Instructional Aide
+role: TBD
 email: karvan@umich.edu
 photo:
 ---

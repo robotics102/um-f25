@@ -7,7 +7,7 @@ nav_order: 3
 
 # Bug Navigation
 {: .no_toc }
-Project 2
+Project 2 - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Instructions

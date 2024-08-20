@@ -1,6 +1,6 @@
 ---
 name: Alexander Shamoun
-role: Instructional Aide
+role: TBD
 email: ashamoon@umich.edu
 photo: 
 ---

@@ -7,7 +7,7 @@ nav_order: 1
 
 # First C++ Programs
 {: .no_toc }
-Project 0 Checkpoint
+Project 0 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Instructions

@@ -7,7 +7,7 @@ nav_order: 2
 
 # Follow Me 1D
 {: .no_toc }
-Project 1 Checkpoint
+Project 1 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Instructions

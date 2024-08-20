@@ -8,7 +8,7 @@ has_toc: false
 
 # Pocket Calculator
 {: .no_toc }
-Project 0
+Project 0 - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Teams

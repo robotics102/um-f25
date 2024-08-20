@@ -1,6 +1,6 @@
 ---
 name: Brinda Kapani
-role: Instructional Aide
+role: TBD
 email: bkapani@umich.edu
 photo: bkapani.jpg
 ---

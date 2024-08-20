@@ -7,7 +7,7 @@ nav_order: 2
 
 # Robot Hits the Spot
 {: .no_toc }
-Project 2 Checkpoint
+Project 2 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Instructions

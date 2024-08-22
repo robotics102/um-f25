@@ -22,7 +22,7 @@ You'll need to output on stdout and take input on stdin.
 
 ## Expected Behavior
 
-This program should form a conversation between Eliza and the user. The user can respond however they like, but will only be able to enter one line at a time. Eliza will respond in a very formulaic way. Let's hope you can find a better therapist if you need one. The sequence should proceed as follows:
+This program should form a conversation between Eliza and the user. The user can respond however they like, but will only be able to enter one line at a time. Eliza will respond in a very formulaic way. Let's hope you can find a better therapist if you need one. Feel free to choose exactly how your Eliza will respond. The only requirements are that Eliza's output should expect exactly three responses from the user and the first two user responses should be included exactly in the output from Eliza. An example Eliza sequence might proceed as follows:
 
 Eliza:
 ```
@@ -66,7 +66,7 @@ Have a good rest of your day, <response number 1>, I hope to see you again soon!
 
 ```
 
-Here's an example from one of the original developers of the course. This is how the input and output should look together in the terminal window:
+Here's an example conversation with this Eliza from one of the original developers of the course. This is how the input and output would look together in the terminal window:
 
 ```
 Hello, I am Eliza. I'll be your therapist today.

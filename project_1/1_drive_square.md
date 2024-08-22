@@ -20,8 +20,12 @@ You'll need to use the [MBot Bridge API](https://hellorob.org/mbot/bridge-api) t
 
 - *Hint: Use the ```robot.drive(vx, vy, wz)``` function to move the robot.*
 
-## Testing and Expected Behavior
+## Expected Behavior
+
+The robot should drive in a square three times. Aim for a sidelength between 0.5 and 1 meters.
+
+## Testing
 
 There are no unit tests for this checkpoint.
 
-The robot behavior can be tested by running the ```drive_square``` executable. The robot should drive in a square three times.
+The robot behavior can be tested by running the ```drive_square``` executable. 

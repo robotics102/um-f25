@@ -14,7 +14,13 @@ Project 2 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANG
 
 In this checkpoint, you will write a Finite State Machine to transition Mario between states based on events in the game environment. Complete the following:
 
-- Implement the super mario finite state machine in the ```playGame()``` function in ```p2_bug_navigation/1_super_mario.cpp``` according to the header file ```p2_bug_navigation/super_mario/super_mario.h```.
+- Implement the super mario finite state machine in the ```playGame()``` function in ```p2_bug_navigation/1_super_mario.cpp``` according to the header file ```p2_bug_navigation/super_mario/super_mario.h``` and the behavior specified below.
+
+A good way to structure your code is to use a ```switch()``` statement to switch between code that should run in each state. Inside each case you may need another ```switch()``` statement to decide how the state should transition based on the ```currentEvent```. The Dead Mario state is handled for you.
+
+## Expected Behavior
+
+The program should adhere to the following behavior:
 
 Mario has three states:
 * Small Mario (represented as the `.` character or `0`)
@@ -31,9 +37,7 @@ This is a Finite State Machine that can be visualized as follows:
 
 ![Super Mario FSM](https://robotics102.org/um-f24/assets/images/p2/super_mario_fsm.jpg){:style="width:800px;" .centered .rd-corners}
 
-A good way to structure your code is to use a ```switch()``` statement to switch between code that should run in each state. Inside each case you may need another ```switch()``` statement to decide how the state should transition based on the ```currentEvent```. The Dead Mario state is handled for you.
-
-## Testing and Expected Behavior
+## Testing
 
 All the code for this checkpoint can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R SuperMario --output-on-failure``` in the ```/build``` directory.
 

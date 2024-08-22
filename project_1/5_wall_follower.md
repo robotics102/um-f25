@@ -21,8 +21,12 @@ This is the final checkpoint for the wall following project. In this checkpoint 
 
 The functions ```vectorAdd()``` and ```crossProduct()``` as well as functions from earlier checkpoints will come in handy for implementing ```computeWallFollowerCommand()```.
 
-## Testing and Expected Behavior
+## Expected Behavior
+
+The robot should drive parallel to the nearest obstacle and maintain a set distance between itself and the nearest obstacle. You can choose whether to wall follow to the left or the right. Be sure to demonstrate that your wall follower can follow multiple walls at different angles in sequence. Your robot should not hit a wall at any point.
+
+## Testing
 
 The functions ```vectorAdd()``` and ```crossProduct()``` can be tested by running the local unit tests. The function ```computeWallFollowerCommand()``` is not unit tested and is simply provided to help you structure your code so that it can be reused in project 2. To test only the functions for this checkpoint run ```ctest -R VectorAdd && ctest -R CrossProduct --output-on-failure``` in the ```/build``` directory.
 
-The robot behavior can be tested by running the ```wall_follower``` executable. The robot should drive parallel to the nearest obstacle and maintain a set distance between itself and the nearest obstacle. Going left or right in parallel with the obstacle are both valid behaviors. You can choose which direction to wall follow in at your discretion. 
+The robot behavior can be tested by running the ```wall_follower``` executable. 

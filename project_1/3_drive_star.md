@@ -22,8 +22,12 @@ You may want to look up or derive the angles associated with a five pointed star
 
 - *Hint: The sides of the star are easiest to describe in polar coordinates but ```robot.drive()``` needs cartesian coordinates.*
 
-## Testing and Expected Behavior
+## Expected Behavior
+
+The robot should drive in an equilateral five pointed star shape without spinning. Aim for a side length of around 1 meter.
+
+## Testing
 
 The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R RayConversionCartisean && ctest -R RayConversionVector --output-on-failure``` in the ```/build``` directory.
 
-The robot behavior can be tested by running the ```drive_star``` executable. The robot should drive in an equilateral five pointed star shape without spinning.
+The robot behavior can be tested by running the ```drive_star``` executable. 

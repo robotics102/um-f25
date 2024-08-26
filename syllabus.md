@@ -24,7 +24,7 @@ Completing Robotics 102 will fulfill
 - the prerequisite for [EECS 280](https://bulletin.engin.umich.edu/courses/eecs/)
 
 
-- the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Departments for other majors can be requested to count Robotics 102 for introductory programming.
+- the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Departments for other majors can be requested to count Robotics 102 for introductory programming.  Completion of ENGR 161 may be required for these other majors.
 
 
 ---
@@ -57,11 +57,12 @@ Similar to Engineering 101, all technical information that you need for Robotics
 
 ## Projects & Grading
 
-Robotics 102 will assign 5 programming projects, 4 quizzes, at least 16 checkpoint activities, and at least 18 lecture review questions. Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.
+Robotics 102 will assign 5 programming projects, 4 quizzes, and lecture review questions.  Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.
 
 Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All project work must be checked by the final grading deadline to receive credit.
 
-Each fully completed project is weighted as 15 points.  Each quiz will be weighted as 3 points.  Each project checkpoint will be weighted as 1 point.  Each set of lecture review questions will be weighted as 0.5 points.
+<!---
+Each fully completed project is weighted as 15 points.  An overall percentage score will be used for quizzes (20 points overall) and lecture review questions (10 points overall).  Student participation (5 points) will be assessed by the professionalism demonstrated during the class. 
 
 Based on this sum of points from coursework, an overall grade for the course is earned as follows:
 
@@ -141,7 +142,7 @@ All checked features must continue to function properly in your repository up th
 
 ### Final Grading
 
-All grading will be finalized for course work submitted on or before December 8, 2022. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
+All grading will be finalized for course work submitted on or before December 13, 2022. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
 
 ### Repositories
 
@@ -170,6 +171,7 @@ If advanced extension features have been implemented and are ready for grading, 
 Students are encouraged to update their repository often with the help of branching. Branching spawns a copy of code in your main branch into a new branch for development, and then merging integrates these changes back into main once they are complete. For example, to revise your work for resubmission, you might create a `my-resubmission` branch while it is under development. This will keep your main branch stable. Once you are confident in your implementation, you can merge your `my-resubmission` branch back into the main branch. This configuration allows your work to be continually updated and built upon such that versions are tracked and grading interruptions are minimized.
 
 ---
+-->
 
 ## Collaboration Policy
 

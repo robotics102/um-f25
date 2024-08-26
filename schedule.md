@@ -13,7 +13,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| August 26	| | Course Initialization <br> <a href="https://piazza.com/umich/fall2024/rob102fa2024">Join Piazza</a> Enrollment <br> <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
+| August 26	| | Course Initialization <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
 | August 28 | Lecture: "Hello World" [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>] [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> PrairieLearn: Homework 1 Zone 1  | First C++ Programs <br> VSCode Setup | Project 0 Release |
 | August 30 | | Lab: MBot-Omni, VSCode, git <br> Project 1 Team Assignments | |
 

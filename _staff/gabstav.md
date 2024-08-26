@@ -1,6 +1,6 @@
 ---
 name: Gavriil Stavrakas
-role: TBD
+role: Instructional Aide
 email: gabstav@umich.edu
 photo:
 ---

@@ -24,7 +24,7 @@ Completing Robotics 102 will fulfill
 - the prerequisite for [EECS 280](https://bulletin.engin.umich.edu/courses/eecs/)
 
 
-- the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Departments for other majors can be requested to count Robotics 102 for introductory programming.  Completion of ENGR 161 may be required for these other majors.
+- the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Programs for other majors can be requested to count Robotics 102 for introductory programming.  Completion of [ENGR 161](https://bulletin.engin.umich.edu/courses/engr/) may be additionally needed for majors that require proficiency in MATLAB.
 
 
 ---
@@ -33,19 +33,19 @@ Completing Robotics 102 will fulfill
 
 Robotics 102 is a robotics-friendly pathway into the computing disciplines and engineering more broadly.
 
-Robotics 102 is about learning computer programming for the C++ and Python languages in a way that builds understanding of artificial intelligence and its algorithmic foundations. The course uses the application of autonomous robot navigation for students to think through problems computationally as graphs and graph algorithms. Similar in aims to Engineering 101, Robotics 102 prepares students for further courses in computer science, such as Data Structures (EECS 280), and the use of computing across engineering disciplines. This course also provides introductory coverage of topics in artificial intelligence such that students understand the general approaches to AI by putting them into practice on real robots. In complement with Robotics 101 (Computational Linear Algebra), this introductory course builds into further study of Robotics and AI by undergraduates, including those for mobile robotics, robot perception, autonomous robotics, computer vision, and machine learning.
+Robotics 102 is about learning computer programming for the C++ and Python languages in a way that builds understanding of artificial intelligence and its algorithmic foundations. The course uses the application of autonomous robot navigation for students to think through problems computationally as graphs and graph algorithms. Similar in aims to Engineering 101, Robotics 102 prepares students for further courses in computer science, such as Data Structures (EECS 280), and the use of computing across engineering disciplines. This course also provides introductory coverage of topics in artificial intelligence such that students understand the general approaches to AI by putting them into practice on real robots. In complement with linear algebra courses, this introductory course builds into further study of Robotics and AI by undergraduates, including those for mobile robotics, robot perception, large language models, autonomous robotics, diffusion models, computer vision, and machine learning.
 
 ---
 
 ## Prerequisites
 
-Robotics 102 has no prerequisites. Students are expected to be fluent in algebra and willing to think algorithmically.
+Robotics 102 has no prerequisite courses. Students are expected to be fluent in algebra and willing to think algorithmically.
 
 ---
 
 ## Course Meetings: Flipped Classroom
 
-Robotics 102 is taught using a flipped classroom hybrid format. The majority of the lectures will be pre-recorded and available online through this course website. In-person course lecture meetings will be used for quizzes, brief (but required) course activities, project work, question-and-answer discussions, and additional office hours for interactive help with course projects. There will also be occasional field trips to see interesting robots, based their availability. In-person lab sections will be dedicated to topics for course projects, primarily for coding and robot projects. Students seeking help during office hours must watch all lectures that have been assigned up to the current date. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan.
+Robotics 102 is taught using a flipped classroom hybrid format. The majority of the lectures will be pre-recorded and available online through this course website.  Robotics 102 this semester uses PrairieLearn for disseminating lecture video and lecture review questions.  In-person lab sections will be dedicated to topics for course projects, primarily for coding and testing with robots, as well as quizzes and question-and-answer discussions.  Students seeking help with coursework during office hours must watch all lectures that have been assigned up to the current date.  There will also be occasional field trips to see interesting robots, based their availability. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan.
 
 ---
 
@@ -57,49 +57,11 @@ Similar to Engineering 101, all technical information that you need for Robotics
 
 ## Projects & Grading
 
-Robotics 102 will assign 5 programming projects, 4 quizzes, and lecture review questions.  Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.
-
-Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All project work must be checked by the final grading deadline to receive credit.
-
-<!---
-Each fully completed project is weighted as 15 points.  An overall percentage score will be used for quizzes (20 points overall) and lecture review questions (10 points overall).  Student participation (5 points) will be assessed by the professionalism demonstrated during the class. 
-
-Based on this sum of points from coursework, an overall grade for the course is earned as follows:
-
-- An A- grade in the course is guaranteed if graded coursework sums to 100 points or above,
-- A B- grade in the course is guaranteed if graded coursework sums to 90 points or above,
-- A C grade in the course is guaranteed if graded coursework sums to 80 points or above.
-
-The instructor reserves the option to assign appropriate course grades with plus or minus modifiers.
-
-### Project Checkpoints
-
-Each project checkpoint will be worth 1 point, graded as "checked" (completed) or "due" (incomplete).  The checkpoint deadline will be posted with its assignment description.  For project checkpoints assigned for a class meeting, the percentage of the credit granted depends on the time of submission for the completed checkpoint:
-
-- Full credit: submission prior to 11:59pm of the day of class period 
-- 80%: submission prior to 11:59pm of the upcoming Friday evening
-- 60%: submission prior to due date of the project module associated with the checkpoint
-- 50%: submission prior to the final grading deadline for the semester
-
-Checkpoint submissions graded as incomplete can be resubmitted for regrading at the next deadline for the checkpoint.
-
-### Lecture Review Questions
-
-Each flipped classroom lecture will have questions review questions to answer.  These lecture review questions serve as pre-class preparation for an upcoming class meeting.  Submission of these lecture review questions is due by the start of the class meeting.  For project checkpoints assigned for a class meeting, the percentage of the credit granted depends on the time of submission of the review question responses:
-
-- Full credit: submission prior to the start of the class period 
-- 90%: submission prior to 11:59pm of the day of the class period
-- 90%: submission prior to 11:59pm of the upcoming Friday evening
-- 60%: submission prior to due date of the project module associated with the checkpoint
-- 50%: submission prior to the final grading deadline for the semester
-
-
-
-Students have the opportunity to earn up to 4 additional points through an advanced extension of a course project. Advanced extensions are due by the course final grading deadline (December 8, 2022) and do not need to be completed for the deadlines of each assignment.
+Grading for Robotics 102 consists 5 programming projects, 5 quizzes, lecture review questions, and student participation.  Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis on the course schedule. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All coursework must be checked by the final grading deadline (December 12, 2024) to receive credit.
 
 ### Grading Breakdown
 
-Points for Robotics 102 are divided as follows, for a total of **112 points**. 
+Each fully completed project is weighted as 15 points.  An overall percentage score from across the semester will be used for quizzes (20 points overall) and lecture review questions (10 points overall).  Student participation (5 points overall) will be assessed by the course staff through the engagement, collaboration, professionalism, attendance, and coding style demonstrated by a student during the class.  The following table provides this point breakdown for Robotics 102 and its total of **110 points**. 
 
 | Description                  | Points |
 |------------------------------|--------|
@@ -109,50 +71,66 @@ Points for Robotics 102 are divided as follows, for a total of **112 points**.
 | - Project 2: 15 points       |        |
 | - Project 3: 15 points       |        |
 | - Project 4: 15 points       |        |
-| Quizzes (4 x 3 points each)   | 12     |
-| Project Checkpoints (16 x 1 point each) | 16 |
-| Lecture Review Questions (18 x 0.5 points each | 9   |
-|                              | 112 |
+| Quizzes (5 x 4 points each)  | 20     |
+| Lecture Review Questions     | 10     |
+| Participation                | 5      |
+
+Based on this sum of points from coursework, an overall grade for the course is earned as follows:
+
+| Description                  | Points | Conditions | 
+|------------------------------|--------|------------|
+| A                            | 100    | Full completion of Project 4 and              |
+|                              |        |     on-time completion of Project 3           |
+| A-                           | 95     | Full completion of Parts 1 and 2 of Project 4 |
+|                              |        |     on-time completion of Project 3           |
+| B+                           | 90     |                                               |
+| B                            | 85     |                                               |
+| B-                           | 80     |                                               |
+| C+                           | 75     |                                               |
+| C                            | 70     |                                               |
+| C-                           | 60     |                                               |
+
+### Final Grading Deadline
+
+All grading will be finalized for course work submitted on or before December 12, 2024. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
+
+### Projects
+
+Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.  [Git](https://docs.github.com/en/get-started/using-git/about-git) repositories hosted on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) will be used for dissemination of project code stencils to students and [version controlled](https://github.com/resources/articles/software-development/what-is-version-control).  Project features will be evalulated by a combination of automated unit testing of selected project features [autograder.io](autograder.io) and manual inspection of student demonstrated robot behavior by the course staff.  
+
+We expect students to use git repositories for collaborative development. It is the responsibility of each student group to ensure their repository adheres to the Collaboration Policy and submission standards for each assignment. Submission standards and examples will be described for each assignment as needed.
+
+IMPORTANT: Do not modify the directory structure in the template code. Repositories that do not follow the directory structure will not be graded.
+
+
+### Lecture Review Questions
+
+Each flipped classroom lecture will have questions review questions to answer.  These lecture review questions serve as pre-class preparation for an upcoming class meeting.  Completion of these lecture review questions is due by the start of the class meeting.    For lecture review questions assigned for a class meeting, the percentage of the credit granted depends the correctness of the responses to the questions and the time of submission:
+
+- Full credit: submission prior to the start of the class period 
+- 80%: submission prior to 11:59pm of the day of the class period
+- 60%: submission prior to due date of the project module associated with the lecture
+- 50%: submission prior to the final grading deadline for the semester
 
 ---
 
-## Project Submission & Regrading
+### Late and Regrading Policy
 
-Git repositories will be used for project implementation, version control, and submission for grading. We will be using [Github Classroom](https://classroom.github.com) to generate and manage student repositories. You will submit your project by updating the **main** branch of your repository and creating a tag for your submission. Updates to the main branch and tags must be committed and pushed prior to the due date for each assignment for any consideration of full credit. Your implementation will be checked out and executed by the course staff. Through your repository, you will be notified by the course staff whether your implementation of assignment features is sufficient to receive credit.
+Robotics 102 strives towards a balance between [growth mindset for student learning](https://en.wikipedia.org/wiki/Mastery_learning) and the practical necessity for timely completion of coursework.  As such, Robotics 102 focuses on student learning of course concepts and skills.  The Robotics 102 late and regrading policy allows for students to continue to work on projects past due dates for increasingly discounted credit.  
 
-### Late Policy
+Late completition of projects can earn partial credit based on the following discounting schedule:
 
-Do not submit projects and assignments late. The course staff reserves the right to not grade late submissions. The course instructor reserves the right to decline late submissions and/or adjust partial credit on regraded assignments.
-
-If granted by the course instructor, late submissions for projects and activities can be graded for partial credit, with the following guidelines:
-
-- Submissions pushed within two weeks past the project deadline will be graded for 80% credit.
-- Submissions pushed within four weeks of the project deadline will be graded for 60% credit.
-- Submissions pushed at any time before the semester project submission deadline (December 8, 2022) will be considered for 50% credit.
+- Completition within one week past the project deadline will be discounted to 90% of full credit.
+- Completition within two weeks past the project deadline will be discounted to 80% of full credit.
+- Completition within four weeks past the project deadline will be discounted to 70% of full credit.
+- Completition by the course final grading deadline will be discounted to 60% of full credit.
 
 As a reminder, the course instructor reserves the right to decline late submissions and/or adjust partial credit on regraded assignments.
 
-### Regrading Policy
-
-The regrading policy allows for submission and regrading of projects and activities up through the final grading of projects, which is December 8 for the Fall 2023 Semester. This regrading policy will grant full credit for submissions made before the corresponding project deadline. If a feature of a graded project is returned as not completed (or "DUE"), your code can be updated for consideration at 80% credit. This code update must be submitted within two weeks from when the originally graded project or activity was returned. Regrades of projects updated beyond this two-week window can receive at most 60% credit. The course staff will allow one regrade for each grading iteration.
-
 ### Completed Features Policy
 
-All checked features must continue to function properly in your repository up through the final grading deadline (December 8, 2022). Checked features that do not function properly for subsequent projects will be treated as a new submission and subject to the regrading policy.
+All checked features must continue to function properly in your repository up through the final grading deadline. Checked features that do not function properly for subsequent projects will be treated as a new submission and subject to the regrading policy.
 
-### Final Grading
-
-All grading will be finalized for course work submitted on or before December 13, 2022. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
-
-### Repositories
-
-Repositories for your project code will be generated using GitHub Classroom assignments. A link to accept the assignment will be available in the description of each project. Accepting the assignment will create a new repository with your GitHub username appended to the name. It will be initialized with the provided template code for the assignment. You and the course instructors will both have read/write access to this repository. GitHub accounts are free to create and use.
-
-There are many different tutorials for learning how to use git repositories. For those new to version control, we realize git has a significant startup overhead and learning curve, but it is definitely worth the effort. This course will provide materials for getting started with git and using it appropriately for course projects. A brief tutorial is available [on the course website](/tutorials/git.html). If you are looking for more resources, [the Pro Git book](http://www.git-scm.com/book/en/v2) provides an in-depth description of git and version control. As different people often learn through different styles, the [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) tutorial has also proved quite useful when a different perspective is needed. [git: the simple guide](http://rogerdudler.github.io/git-guide/) has often been an accessible quick-start resource.
-
-We expect students to use these repositories for collaborative development as well as project submission. It is the responsibility of each student group to ensure their repository adheres to the Collaboration Policy and submission standards for each assignment. Submission standards and examples will be described for each assignment as needed.
-
-IMPORTANT: Do not modify the directory structure in the template code. Repositories that do not follow the directory structure will not be graded.
 
 ### Code Maintenance Policy and Branching
 
@@ -171,11 +149,11 @@ If advanced extension features have been implemented and are ready for grading, 
 Students are encouraged to update their repository often with the help of branching. Branching spawns a copy of code in your main branch into a new branch for development, and then merging integrates these changes back into main once they are complete. For example, to revise your work for resubmission, you might create a `my-resubmission` branch while it is under development. This will keep your main branch stable. Once you are confident in your implementation, you can merge your `my-resubmission` branch back into the main branch. This configuration allows your work to be continually updated and built upon such that versions are tracked and grading interruptions are minimized.
 
 ---
--->
+
 
 ## Collaboration Policy
 
-This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the Michigan Honor License (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
+This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the (Michigan Honor License)[https://github.com/autorob/autorob.github.io/blob/master/MichiganHonorLicense] (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
 
 All students are responsible for their own individual work, even work done in collaboration within a group.
 
@@ -188,7 +166,6 @@ This policy applies to collaboration during the current semester and any past or
 IMPORTANT: To acknowledge compliance with this collaboration policy, append your name to the file "LICENSE" in the main directory of your repository with the following text. This appending action is your attestation of your compliance with the Michigan Honor License and the Michigan Honor Code statement:
 
 "I have neither given nor received unauthorized aid on this course project implementation, nor have I concealed any violations of the Honor Code."
-
 
 This attestation of the honor code will be considered updated with the current date and time of each commit to your repository. Repository commits that do not include this attestation of the honor code will not be graded at the discretion of the course instructor.
 
@@ -212,7 +189,7 @@ The University of Michigan is committed to advancing the mental health and well-
 - [U-M Psychiatric Emergency](https://medicine.umich.edu/dept/psychiatry/patient-care/psychiatric-emergency-service) (734-996-4747, 24-hour)
 - [Counseling and Psychological Services](https://caps.umich.edu/) (CAPS, 734-764-8312, 24-hour)
 - [C.A.R.E. Center](https://care.engin.umich.edu/) on North Campus
-- [University Health Service](https://www.uhs.umich.edu/mentalhealthsvcs) (UHS, 734-764-8320)
+- [University Health Service](https://uhs.umich.edu/mentalhealthsvcs) (UHS, 734-764-8320)
 - [Services for Students with Disabilities](http://ssd.umich.edu)
 - [List of Mental Health Resources](https://caps.umich.edu/resources) (on and off-campus)
 

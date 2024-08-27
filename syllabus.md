@@ -77,18 +77,16 @@ Each fully completed project is weighted as 15 points.  An overall percentage sc
 
 Based on this sum of points from coursework, an overall grade for the course is earned as follows:
 
-| Description                  | Points | Conditions | 
-|------------------------------|--------|------------|
-| A                            | 100    | Full completion of Project 4 and              |
-|                              |        |     on-time completion of Project 3           |
-| A-                           | 95     | Full completion of Parts 1 and 2 of Project 4 |
-|                              |        |     on-time completion of Project 3           |
-| B+                           | 90     |                                               |
-| B                            | 85     |                                               |
-| B-                           | 80     |                                               |
-| C+                           | 75     |                                               |
-| C                            | 70     |                                               |
-| C-                           | 60     |                                               |
+| Grade                        | Points Earned | Conditions                                                                        |
+|------------------------------|---------------|-----------------------------------------------------------------------------------|
+| A                            | 100           | Full completion of Project 4 and on-time completion of Project 3                  |
+| A-                           | 95            | Full completion of Parts 1 and 2 of Project 4 and on-time completion of Project 3 |
+| B+                           | 90            |                                                                                   |
+| B                            | 85            |                                                                                   |
+| B-                           | 80            |                                                                                   |
+| C+                           | 75            |                                                                                   |
+| C                            | 70            |                                                                                   |
+| C-                           | 60            |                                                                                   |
 
 ### Final Grading Deadline
 

@@ -11,10 +11,10 @@ ROB 102, Fall 2024 at The University of Michigan
 
 ### Week 1
 
-| Date | Pre-class | In-class | Project |
+| Date | Pre-class (due before start of class) | In-class | Project |
 |--|--|--|--|
 | August 26	| | Course Initialization [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> Complete <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
-| August 28 | Lecture: "Hello World" [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] <br> PrairieLearn: Homework 1 Zone 1  | First C++ Programs <br> VSCode Setup | Project 0 Release |
+| August 28 | Lecture: "Hello World" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [Slides]() <br> VSCode Setup | Project 0 Release |
 | August 30 | | Lab: MBot-Omni, VSCode, git <br> Project 1 Team Assignments | |
 
 ### Week 2
@@ -22,47 +22,47 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 2 | | Labor day | |
-| September 4 | C++ Operators and Variables LRQ <br>	Branching and Iteration LRQ | Eliza102 | |
+| September 4 | Lecture: "C++ Operators and Variables" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: Eliza102 [Slides]() | |
 | September 6 | | Lab: MBot API / Drive Square | Project 1 Release |
 
 ### Week 3
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 9 | | Calculator FSM Review <br> Single-operation Calculator <br> Feedback Control | |
-| September 11 | C++ Functions LRQ | Bang-Bang Control Review <br> Follow Me 1D <br> C++ Functions | |
-| September 13 | | Project 0-1 Working Session | |
+| September 9  | Lecture: "Branching and Iteration" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 3 | Calculator FSM Review <br> Project work: Single-operation Calculator | |
+| September 11 | Lecture: "Feedback Control" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 1 | Activity: Follow Me 1D and Bang-Bang Control [Slides]() | |
+| September 13 | | Project 0 and 1 Working Session | |
 
 ### Week 4
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 16 | Omnidrive Geometry LRQ | Laser Rangefinding <br> Laser Ray Conversion | Project 0 Deadline |
-| September 18 | C++ Vectors LRQ | Omnidrive Review <br> Drive Star <br> C++ Vectors | |
+| September 16 | Lecture: "C++ Functions" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 4 | Activity: Laser Rangefinding and Laser Ray Conversion [Slides]() | Project 0 Deadline |
+| September 18 | Lecture: "Omnidrive Geometry" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 2 | Activity: Drive Star [Slides]() | |
 | September 20 | | Lab: C++ Review | |
 
 ### Week 5
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 23 | 3D Vector Math LRQ | Quiz 0 <br> Find Minimum Value | | 
-| September 25 | | Vector Math Review <br> Follow Me 2D <br> Vector Sum and Cross product | |
+| September 23 | Lecture: "C++ Vectors" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 5 | Quiz 0 <br> Activity: Find Minimum Value [Slides]() | | 
+| September 25 | Lecture: "Wall Follower 3D Vector Math" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 3 | Activity: Follow Me 2D [Slides]() | |
 | September 27 | | Project 1 Work Session | |
 
 ### Week 6
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 30 | Bug Navigation & Finite State Machines LRQ | Project 1 Demo Session | Project 2 Release |
-| October 2 | Coordinate Frames LRQ | FSMs for Turnstile <br> Super Mario FSM | Project 1 Deadline |	
+| September 30 |  | Project 1 Demo Session | Project 2 Release |
+| October 2 | Lecture: "Bug Navigation and FSMs" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 3 Zone 1 | Activity: Super Mario FSM [Slides]() | Project 1 Deadline |	
 | October 4 | | Lab: Hit the Spot / Odometry | |
 
 ### Week 7
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 7 | | Quiz 1 <br> Obstacle Slice Detection | |
-| October 9 | | Bug Algorithm Pseudocode | |
+| October 7  | Lecture: "Coordinate Frames" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 3 Zone 2 | Quiz 1 <br> Activity: Obstacle Slice Detection [Slides]()  | |
+| October 9  | | Bug Algorithm Pseudocode | |
 | October 11 | | Project 2 Work Session | |
 
 ### Week 8
@@ -70,46 +70,46 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 14 | | Fall Study Break | |
-| October 16 | C++ Structs LRQ | Quiz 2 <br> C++ Structs | |
+| October 16 | | Quiz 2 | |
 | October 18 | | Lab: Robot Localization Workflow | |
 
 ### Week 9
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 21 | Mapping and Local Search LRQ| C++ Structs Review <br> Car Value Calculator | |
-| October 23 | Global Search: BFS & A* LRQ | Pathfinding in Michigan <br> Michigan BFS Worksheet | |
+| October 21 | Lecture: "C++ Structs" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 6 |  Activity: Car Value Calculator [Slides]() | |
+| October 23 | Lecture: "Mapping and Local Search" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 4 Zone 1 | Activity: Pathfinding in Michigan [Slides]() [Worksheet]() | |
 | October 25 | | Project 2 Demo Session | Project 2 Deadline <br> Project 3 Release |
 
 ### Week 10
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 28 | | Michigan BFS Review <br> Michigan BFS C++ Program | |
-| October 30 | Machine Learning LRQ | Project 3 Work Session | |
+| October 28 | Lecture: "Global Search: BFS & A-Star" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 4 Zone 2 | Activity: C++ Pathfinding in Michigan [Slides]() | |
+| October 30 |  | Project 3 Work Session | |
 | November 1 | | Lab: Using the Navigation Webapp | |
 
 ### Week 11
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 4 | Python LRQ | Deep Learning Demonstration <br> Project 3 Work Session | Project 4 Release |
-| November 6 | Nearest Neighbors LRQ | Python Review <br> Python Pocket Calculator | |
+| November 4 | Lecture: "Machine Learning" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 1  | Activity: Deep Learning Demonstration [Slides]() [Notebook]() <br> Project 3 Work Session | Project 4 Release |
+| November 6 | Lecture: "Python Introduction" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 2 | Python Review <br> Activity: Python Pocket Calculator [Slides]()  | |
 | November 8 | | Project 3 Work Session | |
 
 ### Week 12
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 11 | | Nearest Neighbors Review <br> Image Distance in Python | |
-| November 13 | Neural Network Training LRQ | Project 3 Work Session | |
+| November 11 | Lecture: "Nearest Neighbors" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 3 | Activity: Image Distance in Python [Slides]() [Notebook]() | |
+| November 13 | | Project 3 Work Session | |
 | November 15 | | Project 3 Work Session | |
 
 ### Week 13
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 18 | | Neural Network Training Review <br> Machine Learning / SciKit Learn | |
+| November 18 | Lecture: "Neural Network Training" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 4 | Activity: Machine Learning with SciKit Learn [Slides]() [Notebook]() | |
 | November 20 | | Quiz 3 | |
 | November 22 | | Project 3 Work Session | Project 3 Deadline |
 

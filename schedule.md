@@ -14,7 +14,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class (due before start of class) | In-class | Project |
 |--|--|--|--|
 | August 26	| | Course Initialization [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> Complete <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
-| August 28 | Lecture: "Hello World" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [Slides]() <br> VSCode Setup | Project 0 Release |
+| August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [Slides]() <br> VSCode Setup | Project 0 Release |
 | August 30 | | Lab: MBot-Omni, VSCode, git <br> Project 1 Team Assignments | |
 
 ### Week 2

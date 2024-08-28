@@ -94,7 +94,7 @@ All grading will be finalized for course work submitted on or before December 12
 
 ### Projects
 
-Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state.  [Git](https://docs.github.com/en/get-started/using-git/about-git) repositories hosted on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) will be used for dissemination of project code stencils to students and [version controlled](https://github.com/resources/articles/software-development/what-is-version-control).  Project features will be evalulated by a combination of automated unit testing of selected project features [autograder.io](autograder.io) and manual inspection of student demonstrated robot behavior by the course staff.  
+Each project has been decomposed into a collection of features, each of which is worth a specified number of points. Robotics 102 project features are graded as "checked" (completed) or "due" (incomplete). Prior to its due date, the grading status of each feature will be in the "pending" state. Project starter code will be disseminated directly from the course website. For projects 1 - 4 it is recommended that students use [Git](https://docs.github.com/en/get-started/using-git/about-git) repositories hosted on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) for transferring code between the laptop and the robot, collaborating with partners, and [version control](https://github.com/resources/articles/software-development/what-is-version-control). Time in lab with course staff will be available for providing instruction and assistance with this process. Project features will be evalulated by a combination of automated unit testing via [autograder.io](autograder.io) and manual inspection of student demonstrated robot behavior by the course staff.  
 
 We expect students to use git repositories for collaborative development. It is the responsibility of each student group to ensure their repository adheres to the Collaboration Policy and submission standards for each assignment. Submission standards and examples will be described for each assignment as needed.
 
@@ -125,33 +125,12 @@ Late completition of projects can earn partial credit based on the following dis
 
 As a reminder, the course instructor reserves the right to decline late submissions and/or adjust partial credit on regraded assignments.
 
-### Completed Features Policy
-
-All checked features must continue to function properly in your repository up through the final grading deadline. Checked features that do not function properly for subsequent projects will be treated as a new submission and subject to the regrading policy.
-
-
-### Code Maintenance Policy and Branching
-
-This section outlines expectations for maintenance of source code repositories used by students for submission of their work in this course. Repositories that do not maintain these standards will not be graded at the discretion of the course staff.
-
-Code submitted for projects in this course must reside in the main branch of your repository. The directory structure provided in the stencil must not be modified.
-
-The main branch must always maintain a working (or stable) version of your code for this course. Code in the main branch can be analyzed at any time with respect to any assignment whose due date has passed. Improperly functioning code on the main branch can affect the grading of an assignment (even after the assignment due date) up to the assignment of final grades.
-
-The main branch must always be in compliance with the [Michigan Honor Code](https://bulletin.engin.umich.edu/rules/) and [Michigan Honor License](#collab), as described below in the course Collaboration Policy. To be considered for grading, a commit of code to your main branch must be signed with your name and the instructor's name at the bottom of the file named LICENSE with an unmodified version of the Michigan Honor License. Without a properly asserted license file, a code commit to your repository will be considered an incomplete submission and will be ineligible for grading.
-
-If advanced extension features have been implemented and are ready for grading, such features must be listed in the file "advanced_extensions.txt" in the top-level directory of the main.
-
-### Branching
-
-Students are encouraged to update their repository often with the help of branching. Branching spawns a copy of code in your main branch into a new branch for development, and then merging integrates these changes back into main once they are complete. For example, to revise your work for resubmission, you might create a `my-resubmission` branch while it is under development. This will keep your main branch stable. Once you are confident in your implementation, you can merge your `my-resubmission` branch back into the main branch. This configuration allows your work to be continually updated and built upon such that versions are tracked and grading interruptions are minimized.
-
 ---
 
 
 ## Collaboration Policy
 
-This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the (Michigan Honor License)[https://github.com/autorob/autorob.github.io/blob/master/MichiganHonorLicense] (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
+This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the [Michigan Honor License](https://github.com/autorob/autorob.github.io/blob/master/MichiganHonorLicense) (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
 
 All students are responsible for their own individual work, even work done in collaboration within a group.
 
@@ -161,11 +140,11 @@ The code for your implementation may not be shown to anyone outside of your assi
 
 This policy applies to collaboration during the current semester and any past or future instantiations of this course. Although course concepts are intended for general use, your implementation for this course must remain private after the completion of the course. It is expressly prohibited to share any code previously written and graded for this course with students currently enrolled in this course. Similarly, it is expressly prohibited for any students currently enrolled in this course to refer to any code previously written and graded for this course.
 
-IMPORTANT: To acknowledge compliance with this collaboration policy, append your name to the file "LICENSE" in the main directory of your repository with the following text. This appending action is your attestation of your compliance with the Michigan Honor License and the Michigan Honor Code statement:
+IMPORTANT: To acknowledge compliance with this collaboration policy, you will be asked to type out the following text before each submission to the autograder. This is your attestation of your compliance with the Michigan Honor License and the Michigan Honor Code statement:
 
 "I have neither given nor received unauthorized aid on this course project implementation, nor have I concealed any violations of the Honor Code."
 
-This attestation of the honor code will be considered updated with the current date and time of each commit to your repository. Repository commits that do not include this attestation of the honor code will not be graded at the discretion of the course instructor.
+This attestation of the honor code will be considered updated with the current date and time of each submission to the autograder. You will not be able to submit code without making this claim.
 
 Should you fail to abide by this collaboration policy, you will receive no credit for this course. The University of Michigan reserves the right to pursue any means necessary to ensure compliance. This includes, but is not limited to prosecution through The College of Engineering Honor Council, which can result in your suspension or expulsion from the University of Michigan. Please refer to the Engineering Honor Council for additional information.
 

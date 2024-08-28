@@ -7,7 +7,7 @@ nav_order: 4
 
 # Pocket Calculator
 {: .no_toc }
-Project 0 - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
+Project 0
 {: .fs-6 .fw-300 }
 
 ## Instructions

@@ -7,7 +7,7 @@ nav_order: 2
 
 # Eliza 102
 {: .no_toc }
-Project 0 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
+Project 0 Checkpoint
 {: .fs-6 .fw-300 }
 
 ## Instructions

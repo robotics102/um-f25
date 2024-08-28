@@ -130,7 +130,7 @@ As a reminder, the course instructor reserves the right to decline late submissi
 
 ## Collaboration Policy
 
-This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the (Michigan Honor License)[https://github.com/autorob/autorob.github.io/blob/master/MichiganHonorLicense] (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
+This collaboration policy covers all course material and assignments unless otherwise stated. All submitted assignments for this course must adhere to the [Michigan Honor License](https://github.com/autorob/autorob.github.io/blob/master/MichiganHonorLicense) (the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause) plus an attribution clause and an academic integrity clause).
 
 All students are responsible for their own individual work, even work done in collaboration within a group.
 

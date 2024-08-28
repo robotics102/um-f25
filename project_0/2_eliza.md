@@ -7,12 +7,12 @@ nav_order: 2
 
 # Eliza 102
 {: .no_toc }
-Project 0 Checkpoint
+Project 0 Activity
 {: .fs-6 .fw-300 }
 
 ## Instructions
 
-In this checkpoint you'll have a little talk with the user. Complete the following:
+In this activity you'll have a little talk with the user. Complete the following:
 
 - Write a program in ```src/4_eliza.cpp``` so it performs the behavior specified below.
 

@@ -12,7 +12,7 @@ Project 0
 
 ## Instructions
 
-This is the final checkpoint for the Pocket Calculator project. In this checkpoint you will implement similar functionality to last time in several functions. You will then use these functions to implement the full pocket calculator according to the specification below. Complete the following:
+This is the full Pocket Calculator project. In this checkpoint you will implement similar functionality to last time in several functions. You will then use these functions to implement the full pocket calculator according to the specification below. Complete the following:
 
 - Implement ```addTwoNumbers()``` in ```src/common/utils.cpp``` according to the header ```include/common/utils.h``` and the behavior specified below.
 - Implement ```subtractTwoNumbers()``` in ```src/common/utils.cpp``` according to the header ```include/common/utils.h``` and the behavior specified below.

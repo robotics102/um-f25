@@ -7,12 +7,12 @@ nav_order: 3
 
 # Calculator Operation
 {: .no_toc }
-Project 0 Checkpoint
+Project 0 Activity
 {: .fs-6 .fw-300 }
 
 ## Instructions
 
-In this checkpoint you'll implement a program to collect two operands from the user and act on them with an operator supplied by the user. Complete the following:
+In this activity you'll implement a program to collect two operands from the user and act on them with an operator supplied by the user. Complete the following:
 
 - Write a program in ```src/5_calc_op.cpp``` so it performs the behavior specified below.
 

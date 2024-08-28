@@ -7,12 +7,12 @@ nav_order: 1
 
 # First C++ Programs
 {: .no_toc }
-Project 0 Checkpoint
+Project 0 Activity
 {: .fs-6 .fw-300 }
 
 ## Instructions
 
-In this checkpoint you will write your firt C++ programs from scratch. Complete the following:
+In this activity you will write your firt C++ programs from scratch. Complete the following:
 
 - Write a program in ```src/hello_world.cpp``` so that it performs the behavior specified below.
 - Write a program in ```src/go_blue.cpp``` so that it performs the behavior specified below.

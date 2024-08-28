@@ -14,7 +14,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class (due before start of class) | In-class | Project |
 |--|--|--|--|
 | August 26	| | Course Initialization [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> Complete <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
-| August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [Slides]() <br> VSCode Setup | Project 0 Release |
+| August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [[Slides](https://drive.google.com/file/d/1jN8zMotvd1T-0LAFFQJ4dSGBMhsqW8AW/view?usp=drive_link)] <br> [VSCode Setup](https://robotics102.org/um-f24/workflows/computer_setup.html) | Project 0 Release |
 | August 30 | | Lab: MBot-Omni, VSCode, git <br> Project 1 Team Assignments | |
 
 ### Week 2
@@ -22,7 +22,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 2 | | Labor day | |
-| September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides]()[ [[Complete Video]()] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: Eliza102 [Slides]() | |
+| September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Complete Video](https://youtu.be/Vvys7lZa764)] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: Eliza102 [Slides]() | |
 | September 6 | | Lab: MBot API / Drive Square | Project 1 Release |
 
 ### Week 3

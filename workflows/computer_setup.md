@@ -9,53 +9,50 @@ nav_order: 1
 
 This page contains instructions for installing software needed for ROB 102.
 
-## VSCode
+## Command Line Setup
 
-Visual Studio Code is the **Integrated Development Environment (IDE)** that we will be using to write C++ code. To install it, follow the instructions for your OS. Then, configure it following the configuration instructions. Finally install the dependencies for this course in the VSCode terminal.
+If your computer is running Windows or MacOS follow the corresponding guide below. 
 
-- [Windows](#windows)
-- [Mac OS](#mac-os)
-- [Linux](#linux)
+- [Windows Command Line Setup](https://eecs280staff.github.io/tutorials/setup_wsl.html)
+- [MacOS Command Line Setup](https://eecs280staff.github.io/tutorials/setup_macos.html)
 
-Note: There is another IDE called Visual Studio. VSCode is different from Visual Studio.
+If your computer is running Linux, simply search for the terminal application, and you should be all set.
 
-## Installing VSCode
+## Command Line Usage
 
-### Windows
+To familiarize yourself with using a terminal, you may find [this tutorial](https://eecs280staff.github.io/tutorials/cli.html) helpful. We will go over the basics in lab, so don't worry if it's a little overwhelming. It's perfectly okay to ask for help using the terminal in this course.
 
-1. **Download VSCode:** Download the installer for VSCode for Windows from the [Visual Studio website](https://code.visualstudio.com/download):
-![Windows Download](../assets/images/setup/vscode/win/download_win.png){:style="width:500px;" .centered .rd-corners}
+## VSCode Installation
 
-2. **Install VSCode:** When the installer finishes downloading, click on it to run it. Click &quot;Yes&quot; when asked to allow the installer to make changes to your computer. Accept the default option for the installation path. If installation is successful, you should see a screen like this one:
-![Windows Download Success](../assets/images/setup/vscode/win/vscode_success.jpg){:style="width:500px;" .centered .rd-corners}
+Follow the corresponding guide below, based on your operating system. **Only complete steps up to the "Create a project section"!** You won't need the rest for this course.
 
-3. **Open VSCode:** Open VSCode by searching for &quot;Visual Studio Code&quot; in the search bar:
-![Windows Open VSCode](../assets/images/setup/vscode/win/vscode_app.png){:style="width:500px;" .centered .rd-corners}
+- [Windows VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_macos.html)
+- [MacOS VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_wsl.html)
+- [Linux VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode.html) - The section under "Linux".
 
-### Mac OS
+## ROB 102 Specific Extensions and Dependency Installation
 
-1. **Download VSCode:** Download the installer for VSCode for Mac from the [Visual Studio website](https://code.visualstudio.com/download):
-![Mac Download](../assets/images/setup/vscode/mac/download_mac.png){:style="width:500px;" .centered .rd-corners}
-    
-2. **Add VSCode to applications:** When the installer finishes downloading, find the download using your Finder (look for it in Downloads). Drag and drop the file into your Applications folder.
-![Mac Applications Drag-Drop](../assets/images/setup/vscode/mac/find-vscode.png){:style="width:500px;" .centered .rd-corners}
+Open VSCode, and make sure to connect to WSL if you're on Windows. Then open a new terminal by clicking ```Terminal``` then ```New Terminal```. In the new terminal run the following commands based on your operating system.
 
-3. **Open VSCode:** Open VSCode by searching for &quot;Visual Studio Code&quot; in the launchpad:
-![Mac Launchpad](../assets/images/setup/vscode/mac/launchpad.png){:style="width:300px;" .centered .rd-corners}
+- **Windows:** ```sudo apt update && sudo apt install cmake libgtest-dev```.
+- **Mac OS:** ```brew install cmake googletest```.
+- **Linux:** ```sudo apt update && sudo apt install cmake libgtest-dev```.
 
-### Linux
+Finally install two more VSCode extensions by searching in the extensions bar. 
 
-Download the installer for VSCode for Linux from the [Visual Studio website]("https://code.visualstudio.com/download") and follow the instructions to install.
+- Search for and install the CMake Tools extension by Microsoft.
+- Search for and install the Remote - SSH extension by Microsoft.
 
-## Configuring VSCode
+## Setting Up A Project
 
-There are multiple extensions available to configure VSCode to your needs. We recommend installing the C/C++ extension for ROB 102. Later, you might discover more extensions that you find useful. To install an extension, select the &quot;Extensions&quot; icon <span><img src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/extensions.svg?sanitize=true"></span> in the bar on the left of the VSCode window. In the search bar, type &quot;C++&quot; and select &quot;Install&quot; for the extension shown below:
+In this course we'll rely on the CMake Tools extension to make sure VSCode can understand your code structure properly. This will help tools like the visual debugger to give you more accurate warnings while you are coding. 
 
-![VSCode C++ Extension](../assets/images/setup/vscode/vscode_cpp_ext.jpg){:style="width:500px;" .centered .rd-corners}
+- Download project code from one of the project pages on this website. For example, [follow this](https://robotics102.org/um-f24/project_0/#getting-your-code) for Project 0.
+- Open the folder with this project in VSCode.
+- Click on the CMake extension in the left bar of the VSCode window.
+- Under the "Folder" drop down, make sure the project's root directory is selected.
+- Under the "Configure" drop down, make sure the first item shows "GCC" with some version information after it. If it shows a different option, edit it and select one of the options beginning with "GCC". 
 
-## Installing Dependencies
-In VSCode, open a new terminal by clicking "Terminal" in the top bar, then "New Terminal" in the drop down menu. Next run one of the following commands in the new terminal, depending on your operating system. You may need to enter your computer password in the terminal, if prompted.
+From here you should be able to build, run, and test your code in your VSCode terminal using commands in each project specification.
 
-- **Windows:** ```sudo apt update && sudo apt install libgtest-dev```.
-- **Mac OS:** ```brew install googletest```.
-- **Linux:** ```sudo apt update && sudo apt install libgtest-dev```.
+Note that we won't rely on the extension for configuring or building code. Each project will have instructions on how to build your code by running commands in the terminal. If you would like to learn how to use the CMake extension on your own, feel free. However, we believe learning to use CMake via the terminal will be a more valuable skill in the long run. 

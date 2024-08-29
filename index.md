@@ -20,11 +20,12 @@ This is the course page for the Fall 2024 offering of [Hello, Robot! Introductio
 
 <i class="fa-solid fa-chalkboard-user"></i> **Lectures:** 
 
-*coming soon*
+- M 1:30 - 3:00, 1050 FRB
+- W 1:30 - 3:00, 1050 FRB
 
 <i class="fa-solid fa-flask"></i> **Labs:**
 
-*coming soon*
+- F 12:30 - 2:30, 1050 FRB
 
 # Instructors
 

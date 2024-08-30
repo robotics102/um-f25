@@ -26,8 +26,8 @@ To familiarize yourself with using a terminal, you may find [this tutorial](http
 
 Follow the corresponding guide below, based on your operating system. **Only complete steps up to the "Create a project section"!** You won't need the rest for this course.
 
-- [Windows VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_macos.html)
-- [MacOS VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_wsl.html)
+- [Windows VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_wsl.html)
+- [MacOS VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode_macos.html)
 - [Linux VSCode Installation](https://eecs280staff.github.io/tutorials/setup_vscode.html) - The section under "Linux".
 
 ## ROB 102 Specific Extensions and Dependency Installation

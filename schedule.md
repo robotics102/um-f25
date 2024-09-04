@@ -22,14 +22,14 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 2 | | Labor day | |
-| September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Complete Video](https://youtu.be/Vvys7lZa764)] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: Eliza102 [Slides]() | |
+| September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Complete Video](https://youtu.be/Vvys7lZa764)] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: GenAI and Eliza102 [[Slides](https://drive.google.com/file/d/1h7leFxLM0f5eZEpbUJM1aTRsxEaY2HYT/view?usp=sharing)] | |
 | September 6 | | Lab: MBot API / Drive Square | Project 1 Release |
 
 ### Week 3
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 9  | Lecture: "Branching and Iteration" [PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/) [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 3 | Calculator FSM Review <br> Project work: Single-operation Calculator | |
+| September 9  | Lecture: "Branching and Iteration" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] [[Complete Video](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf)] <br> PrairieLearn LRQ: Homework 1 Zone 3 | Calculator FSM Review <br> Project work: Single-operation Calculator | |
 | September 11 | Lecture: "Feedback Control" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 1 | Activity: Follow Me 1D and Bang-Bang Control [Slides]() | |
 | September 13 | | Project 0 and 1 Working Session | |
 

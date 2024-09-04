@@ -2,7 +2,7 @@
 layout: page
 parent: Workflows
 title: Setting Up a Repository
-nav_order: 1
+nav_order: 2
 ---
 
 # Setting Up a Repository
@@ -33,4 +33,4 @@ If you're working with a partner and you created the repository on your GitHub a
 
 ## Cloning the Repository
 
-You should now be able to create a local repository of your project on any computer that doesn't already have one just by cloning your remote. See the [cloning a repository section](https://hellorob.org/tutorials/git#sec_clone) of the HelloRob tutorial.
+You should now be able to create a local repository of your project on any computer that doesn't already have one just by cloning your remote. See the [cloning a repository section](https://hellorob.org/tutorials/git#sec_clone) of the HelloRob tutorial. Note that this guide uses the https link for cloning the repo, while you should copy paste the ssh link (both are options under the green code button on GitHub). 

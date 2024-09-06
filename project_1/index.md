@@ -8,7 +8,7 @@ has_toc: false
 
 # Wall Follower
 {: .no_toc }
-Project 1 - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
+Project 1
 {: .fs-6 .fw-300 }
 
 ## Teams

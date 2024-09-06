@@ -23,7 +23,7 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | September 2 | | Labor day | |
 | September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Complete Video](https://youtu.be/Vvys7lZa764)] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: GenAI and Eliza102 [[Slides](https://drive.google.com/file/d/1h7leFxLM0f5eZEpbUJM1aTRsxEaY2HYT/view?usp=sharing)] | |
-| September 6 | | Lab: MBot API / Drive Square | Project 1 Release |
+| September 6 | | Lab: Git, MBot API, Drive Square [[Slides]](https://drive.google.com/file/d/18Xn54dfxxRY_FCYHMkuFN7jHT5ojPr0H/view?usp=drive_link) | Project 1 Release |
 
 ### Week 3
 

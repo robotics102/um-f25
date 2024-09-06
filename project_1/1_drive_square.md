@@ -7,12 +7,12 @@ nav_order: 1
 
 # Drive Square
 {: .no_toc }
-Project 1 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
+Project 1 Activity
 {: .fs-6 .fw-300 }
 
 ## Instructions
 
-In this checkpoint you will use iteration to drive the robot in a square. Complete the following:
+In this activity you will use iteration to drive the robot in a square. Complete the following:
 
 - Implement drive square in ```p1_wall_follower/1_drive_square.cpp``` so that the robot performs the behavior specified below.
 

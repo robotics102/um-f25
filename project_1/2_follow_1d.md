@@ -7,12 +7,12 @@ nav_order: 2
 
 # Follow Me 1D
 {: .no_toc }
-Project 1 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
+Project 1 Activity
 {: .fs-6 .fw-300 }
 
 ## Instructions
 
-In this checkpoint you will implement bang-bang control and p-control and then use them to control the robot in one direction. You'll use these feedback controllers across many parts of projects 1 and 2. First implement the feedback controllers such that they pass the unit tests. Then implement follow me 1D. Complete the following:
+In this activity you will implement bang-bang control and p-control and then use them to control the robot in one direction. You'll use these feedback controllers across many parts of projects 1 and 2. First implement the feedback controllers such that they pass the unit tests. Then implement follow me 1D. Complete the following:
 
 - Implement ```bangBangControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
 - Implement ```pControl()``` in ```mbot_lib/mbot_lib/controllers.cpp``` according to the header file ```mbot_lib/mbot_lib/controllers.h```.
@@ -28,6 +28,6 @@ The robot should follow an obstacle in the forward/backward (x) direction as sho
 
 ## Testing
 
-The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R BangBangControl && ctest -R PControl --output-on-failure``` in the ```/build``` directory.
+The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R BangBangControl --output-on-failure && ctest -R PControl --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```follow_1d``` executable. 

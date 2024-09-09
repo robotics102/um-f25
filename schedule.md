@@ -29,8 +29,8 @@ ROB 102, Fall 2024 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 9  | Lecture: "Branching and Iteration" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] [[Complete Video](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf)] <br> PrairieLearn LRQ: Homework 1 Zone 3 | Calculator FSM Review <br> Project work: Single-operation Calculator | |
-| September 11 | Lecture: "Feedback Control" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 1 | Activity: Follow Me 1D and Bang-Bang Control [Slides]() | |
+| September 9  | Lecture: "Branching and Iteration" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing)] [[Complete Video](https://youtu.be/W9g1TxN35Vs?si=uNG78KAH5uYeluXf)] <br> PrairieLearn LRQ: Homework 1 Zone 3 | Calculator FSM Review <br> Project work: Single-operation Calculator [Branching Digest](https://drive.google.com/file/d/1Qa4cGBd5u3noGehkhyBht1vzyPF8EdtG/view?usp=drive_link) [Iteration Digest](https://drive.google.com/file/d/1NFdawRWhI0eIXnJnj0x7OeGIh4wE2K8E/view?usp=sharing) | |
+| September 11 | Lecture: "Feedback Control" [PrairieLearn]() [Slides](https://drive.google.com/file/d/1AZdZzsf2R80fc2M5xvzMeT7WoWllShjI/view) [Complete Video](https://www.youtube.com/watch?v=yFcaiv0wIvU) <br> PrairieLearn LRQ: Homework 1 Zone 4 | Activity: Follow Me 1D and Bang-Bang Control [Slides]() | |
 | September 13 | | Project 0 and 1 Working Session | |
 
 ### Week 4

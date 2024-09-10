@@ -64,4 +64,4 @@ Office hours will be held in **FRB 2000** and on **Zoom**.
 
 The schedule can be found below.
 
-*coming soon*
+<iframe src="https://calendar.google.com/calendar/embed?src=c_caa9ab242d12888c45dd8da82a746fed62e64a281e2ec5430e1732447ff2977d%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

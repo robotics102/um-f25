@@ -15,7 +15,7 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | August 26	| | Course Initialization [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> Complete <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
 | August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [[Slides](https://drive.google.com/file/d/1jN8zMotvd1T-0LAFFQJ4dSGBMhsqW8AW/view?usp=drive_link)] <br> [VSCode Setup](https://robotics102.org/um-f24/workflows/computer_setup.html) | Project 0 Release |
-| August 30 | | Lab: VSCode, Coding, and the MBot-Omni [[Slides](https://drive.google.com/file/d/1Ul_8lct_G8EvovypWgpeIKGT5aiJjgwh/view?usp=drive_link)] <br> Project 1 Team Assignments | |
+| August 30 | | Lab: VSCode, Coding, and the MBot-Omni [[Slides](https://drive.google.com/file/d/1uOqbO4VCs_CZCqzRoUmaHyj-nxhk_nfv/view?usp=drive_link)] <br> Project 1 Team Assignments | |
 
 ### Week 2
 
@@ -23,7 +23,7 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | September 2 | | Labor day | |
 | September 4 | Lecture: "C++ Operators and Variables" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1H18XGeZ-WxNhvar4mCXoo9jHFKrr64Zj/view?usp=sharing)] [[Complete Video](https://youtu.be/Vvys7lZa764)] <br> PrairieLearn LRQ: Homework 1 Zone 2  | Activity: GenAI and Eliza102 [[Slides](https://drive.google.com/file/d/1h7leFxLM0f5eZEpbUJM1aTRsxEaY2HYT/view?usp=sharing)] | |
-| September 6 | | Lab: Git, MBot API, Drive Square [[Slides](https://drive.google.com/file/d/18Xn54dfxxRY_FCYHMkuFN7jHT5ojPr0H/view?usp=drive_link)] | Project 1 Release |
+| September 6 | | Lab: Git, MBot API, Drive Square [[Slides](https://drive.google.com/file/d/19VR_7q4QKnYK3LoN97ky3XJelVNt3P9J/view?usp=drive_link)] | Project 1 Release |
 
 ### Week 3
 

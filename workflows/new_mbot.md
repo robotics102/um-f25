@@ -15,7 +15,20 @@ If you're not the first user of an MBot, the dependencies for this class may alr
 
 Connect to your robot via the VSCode remote extension. On the VSCode window for your robot, go to the extensions tab on the left, and look for the CMake Tools extension. If the blue install button says "install on remote" hit the button to install the extension on your MBot. If it says "Uninstall", the extension may have already been installed.
 
-Run ```sudo apt-get install libgtest-dev``` in the terminal on your MBot. You may need to enter the robot's password. The command may say that this package is already installed. This is fine.
+Run ```sudo apt-get install libgtest-dev``` in the terminal on your MBot. You may need to enter the robot's password. The command may say that this package is already installed. This is fine. If this command doesn't work, navigate to a non-git repository folder (e.g. Documents) and run the following:
+
+```
+wget https://github.com/google/googletest/releases/download/v1.15.2/googletest-1.15.2.tar.gz
+tar -xzvf googletest-1.15.2.tar.gz
+cd googletest-1.15.2
+cmake -DBUILD_SHARED_LIBS=ON .
+sudo make install
+cd ..
+rm -rf googletest-1.15.2
+rm googletest-1.15.2.tar.gz
+```
+
+This builds the testing framework we use in this class from its source code.
 
 ## Configure Git and Keys
 

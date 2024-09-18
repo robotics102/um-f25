@@ -26,7 +26,7 @@ You may want to look up or derive the angles associated with a five pointed star
 
 The robot should drive in an equilateral five pointed star shape without spinning. Aim for a side length of around 1 meter.
 
-<iframe style="max-width: 100%;" class="centered" width="560" height="315" src="https://youtube.com/shorts/BatxiM1iyVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>
+[Video](https://youtube.com/shorts/BatxiM1iyVQ?feature=share)
 
 Note that the error from driving will likely keep your shape from looking exactly like a star.
 

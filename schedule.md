@@ -38,7 +38,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 16 | Lecture: "C++ Functions" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/17jLmVqZ9TUnSaM7_c-bPs8AKllPEHUud/view?usp=sharing)] [[Complete Video](https://youtu.be/ZarKDScV_DQ)] <br> PrairieLearn LRQ: Homework 1 Zone 5 | Activity: Laser Rangefinding and Laser Ray Conversion [[Slides](https://drive.google.com/file/d/1yi0_liXqFe79ZYpeOocrO-TeqF6LGTbE/view?usp=drive_link)] | Project 0 Deadline |
-| September 18 | Lecture: "Omnidrive Geometry" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/instructor/assessment/2431424/questions)] [[Slides](https://drive.google.com/file/d/1urDDViXqMxtSHxQDybJ_uTMAksDW9Agf/view)] [[Complete Video](https://www.youtube.com/watch?v=ywpI5dizgFA)] <br> PrairieLearn LRQ: Homework 1 Zone 6 | Activity: Drive Star [Slides]() | |
+| September 18 | Lecture: "Omnidrive Geometry" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/instructor/assessment/2431424/questions)] [[Slides](https://drive.google.com/file/d/1urDDViXqMxtSHxQDybJ_uTMAksDW9Agf/view)] [[Complete Video](https://www.youtube.com/watch?v=ywpI5dizgFA)] <br> PrairieLearn LRQ: Homework 1 Zone 6 | Activity: Drive Star [[Slides](https://drive.google.com/file/d/1NbjcztcOy-IAf0wMrUSy04MkMVp24CnG/view?usp=drive_link)] | |
 | September 20 | | Lab: C++ Review | |
 
 ### Week 5

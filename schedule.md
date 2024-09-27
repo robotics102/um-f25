@@ -46,7 +46,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 23 | Lecture: "C++ Vectors and Structs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4Hfr6zcVHFo)] <br> PrairieLearn LRQ: Homework 1 Zone 7 | Quiz 0 <br> Activity: Find Minimum Value [Slides]() | | 
-| September 25 | Lecture: "Wall Follower 3D Vector Math" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 2 Zone 3 | Activity: Follow Me 2D [Slides]() | |
+| September 25 | Lecture: "Wall Follower 3D Vector Math" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 8 | Activity: Follow Me 2D [Slides]() | |
 | September 27 | | Project 1 Work Session | |
 
 ### Week 6
@@ -54,14 +54,14 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 30 |  | Project 1 Demo Session | Project 2 Release |
-| October 2 | Lecture: "Bug Navigation and FSMs" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 3 Zone 1 | Activity: Super Mario FSM [Slides]() | Project 1 Deadline |	
+| October 2 | Lecture: "Bug Navigation and FSMs" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 9 | Activity: Super Mario FSM [Slides]() | Project 1 Deadline |	
 | October 4 | | Lab: Hit the Spot / Odometry | |
 
 ### Week 7
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 7  | Lecture: "Coordinate Frames" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 3 Zone 2 | Quiz 1 <br> Activity: Obstacle Slice Detection [Slides]()  | |
+| October 7  | Lecture: "Coordinate Frames" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 1 Zone 10 | Quiz 1 <br> Activity: Obstacle Slice Detection [Slides]()  | |
 | October 9  | | Bug Algorithm Pseudocode | |
 | October 11 | | Project 2 Work Session | |
 

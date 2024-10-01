@@ -8,7 +8,6 @@ has_toc: false
 
 # Bug Navigation    
 {: .no_toc }
-Project 2 - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 Project 2 uses the same codebase and workflow as project 1. Please refer to the [instructions for project 1](https://robotics102.org/um-f24/project_1/).

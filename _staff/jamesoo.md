@@ -2,5 +2,5 @@
 name: James Oosterhouse
 role: Instructional Aide
 email: jamesoo@umich.edu
-photo: 
+photo: jamesoo.png
 ---

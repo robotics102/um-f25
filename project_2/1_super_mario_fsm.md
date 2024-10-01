@@ -7,7 +7,6 @@ nav_order: 1
 
 # Super Mario State Machine
 {: .no_toc }
-Project 2 Checkpoint - WARNING: THIS MATERIAL IS UNRELEASED AND SUBJECT TO CHANGE!
 {: .fs-6 .fw-300 }
 
 ## Instructions

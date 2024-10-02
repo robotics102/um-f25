@@ -46,7 +46,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 23 | Lecture: "C++ Vectors and Structs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4Hfr6zcVHFo)] <br> PrairieLearn LRQ: Homework 1 Zone 7 | Quiz 0 <br> Activity: Find Minimum Value | | 
-| September 25 | Lecture: "Wall Follower 3D Vector Math" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [Slides]() [Complete Video](https://www.youtube.com/watch?v=93K6UDaKTUw) <br> PrairieLearn LRQ: Homework 1 Zone 8 | Activity: Follow Me 2D [[Description](https://robotics102.org/um-f24/project_1/4_follow_2d.html)] | |
+| September 25 | Lecture: "Wall Follower 3D Vector Math" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=93K6UDaKTUw)] <br> PrairieLearn LRQ: Homework 1 Zone 8 | Activity: Follow Me 2D [[Description](https://robotics102.org/um-f24/project_1/4_follow_2d.html)] | |
 | September 27 | | Project 1 Work Session | |
 
 ### Week 6

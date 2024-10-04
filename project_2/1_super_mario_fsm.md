@@ -36,6 +36,8 @@ This is a Finite State Machine that can be visualized as follows:
 
 ![Super Mario FSM](https://robotics102.org/um-f24/assets/images/p2/super_mario_fsm.jpg){:style="width:800px;" .centered .rd-corners}
 
+Every step taken in Small Mario state should add 0 points. Every step taken in Regular Mario state should add 1 point. Every step taken in Big Mario state should add 3 points.
+
 ## Testing
 
 All the code for this checkpoint can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R SuperMario --output-on-failure``` in the ```/build``` directory.

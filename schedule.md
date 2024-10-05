@@ -55,7 +55,7 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | September 30 |  | Project 1 Demo Session | Project 2 Release |
 | October 2 | Lecture: "Bug Navigation and FSMs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1Dd67LYB47rOk8Soq7XubMR9GuhKUgfeM/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4wwOCFol9mQ)] <br> PrairieLearn LRQ: Homework 1 Zone 9 | Activity: Super Mario FSM [[Slides](https://drive.google.com/file/d/1yg_rEXaBiMrk-nvPeK8BI__ouw6urfR8/view?usp=drive_link)] [[Turnstile Example Code](https://drive.google.com/file/d/1vN64HrAer_YJijgOTdbRDKrinrU9kyKZ/view?usp=drive_link)] | Project 1 Deadline |	
-| October 4 | | Lab: Hit the Spot / Odometry [[Slides](https://drive.google.com/file/d/1nOfLL6WZ576LZPOnmuyuMr7z06MuEjSg/view?usp=drive_link)] | |
+| October 4 | | Lab: Hit the Spot / Odometry [[Slides](https://drive.google.com/file/d/1ltChSl0EwL7Y3y-gtbmzMLajoR0iCX7A/view?usp=drive_link)] | |
 
 ### Week 7
 

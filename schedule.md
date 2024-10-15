@@ -70,7 +70,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 14 | | Fall Study Break | |
-| October 16 | | Quiz 2 | |
+| October 16 | | Project Work Session <del>Quiz 2</del> | |
 | October 18 | | Lab: Robot Localization Workflow | |
 
 ### Week 9
@@ -86,7 +86,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 28 | Lecture: "Global Search: BFS & A-Star" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 4 Zone 2 | Activity: C++ Pathfinding in Michigan [Slides]() | |
-| October 30 |  | Project 3 Work Session | |
+| October 30 |  | Quiz 2 <del>Project 3 Work Session</del> | |
 | November 1 | | Lab: Using the Navigation Webapp | |
 
 ### Week 11

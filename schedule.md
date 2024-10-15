@@ -61,7 +61,7 @@ ROB 102, Fall 2024 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 7  | Lecture: "Coordinate Frames" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1W0i6nqkzXUWdTYAS6NN1-8ODAtk1-gMf/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=1rjQG5bTzdk)] <br> PrairieLearn LRQ: Homework 1 Zone 10 | Quiz 1 <br> Activity: Obstacle Slice Detection [Slides]()  | |
+| October 7  | Lecture: "Coordinate Frames" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1W0i6nqkzXUWdTYAS6NN1-8ODAtk1-gMf/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=1rjQG5bTzdk)] <br> PrairieLearn LRQ: Homework 1 Zone 10 | Quiz 1 <br> <del>Activity: Obstacle Slice Detection [Slides]()</del>  | |
 | October 9  | | Bug Algorithm Pseudocode | |
 | October 11 | | Project 2 Work Session | |
 

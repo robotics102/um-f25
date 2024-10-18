@@ -21,7 +21,7 @@ You'll want to use ```transformVector2D()``` in ```computeDriveToPoseCommand()``
 
 ## Expected Behavior
 
-The terminal should ask for the user to input values for an (x, y, theta) goal pose. The robot should then drive in a straight line to the goal pose. Finally the terminal should output the final odometry position of the robot. The final odometry pose should be very close (within a centimeter and 0.15 radians) to the input goal pose. Be sure to show input goal pose and final pose in your terminal during your demonstration.
+The terminal should ask for the user to input values for an (x, y, theta) goal pose. The robot should then drive in a straight line to the goal pose. Finally the terminal should output the final odometry position of the robot. The final odometry pose should be very close (within 3 centimeters and 0.15 radians) to the input goal pose. Be sure to show input goal pose and final pose in your terminal during your demonstration.
 
 ## Testing
 

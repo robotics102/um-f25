@@ -24,7 +24,7 @@ Using it in ```isGoalAngleObstructed()``` should make checking for obstacles nea
 
 ## Expected Behavior
 
-The terminal should ask for the user to input values for an (x, y, theta) goal pose. The robot should then drive in a straight line to the goal pose. When it comes within a small distance (under 1 meter) of an obstacle it should begin wall following around the obstacle. When the goal pose can again be driven to in a straight line, the robot should resume driving straight.  Finally the terminal should output the final odometry position of the robot. The final odometry pose should be very close (within a centimeter and 0.15 radians) to the input goal pose. A demonstration of this behavior is shown in the video below.
+The terminal should ask for the user to input values for an (x, y, theta) goal pose. The robot should then drive in a straight line to the goal pose. When it comes within a small distance (under 1 meter) of an obstacle it should begin wall following around the obstacle. When the goal pose can again be driven to in a straight line, the robot should resume driving straight.  Finally the terminal should output the final odometry position of the robot. The final odometry pose should be very close (within 3 centimeters and 0.15 radians) to the input goal pose. A demonstration of this behavior is shown in the video below.
 
 <iframe style="max-width: 100%;" class="centered" width="560" height="315" src="https://www.youtube.com/embed/WvheWNQ9LaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

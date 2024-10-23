@@ -77,15 +77,15 @@ ROB 102, Fall 2024 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 21 | Lecture: "C++ Vectors and Structs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4Hfr6zcVHFo)] <br> PrairieLearn LRQ: Homework 1 Zone 7 |  Digest: [[Vectors and Structs 1](https://drive.google.com/file/d/16vVb3LfGokrpaS19enujVuUhkdV72MkB/view?usp=drive_link)] [[Slides](https://drive.google.com/file/d/1DpeyMAft4ojh5l7hNOs_5aLv2UOs_rON/view?usp=sharing) <br> Digest: [[Vectors and Structs 2](https://drive.google.com/file/d/1cTfvXdyuX4vFjVNPYaR2GGf3rEh6pNl4/view?usp=drive_link)] [[Slides](https://drive.google.com/file/d/1b4JdHJSZ2zo_qIkjh5YqG1XNjAQcuF5L/view?usp=drive_link)]] <br> Livecoding example: Car Value Calculator | |
-| October 23 | Lecture: "Mapping and Local Search" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1vSYmnAoEkw_4587LzA714smlD2CLblyM/view?usp=sharing)] [[Complete Video](https://youtu.be/ACU7_aSSBnc)] <br> PrairieLearn LRQ: Homework 1 Zone 11 | Activity: Pathfinding in Michigan [Slides]() [Worksheet]() | |
+| October 21 | Lecture: "C++ Vectors and Structs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4Hfr6zcVHFo)] <br> PrairieLearn LRQ: Homework 1 Zone 7 |  Digest: [[Vectors and Structs 1](https://drive.google.com/file/d/16vVb3LfGokrpaS19enujVuUhkdV72MkB/view?usp=drive_link)] [[Slides](https://drive.google.com/file/d/1DpeyMAft4ojh5l7hNOs_5aLv2UOs_rON/view?usp=sharing)] <br> Digest: [[Vectors and Structs 2](https://drive.google.com/file/d/1cTfvXdyuX4vFjVNPYaR2GGf3rEh6pNl4/view?usp=drive_link)] [[Slides](https://drive.google.com/file/d/1b4JdHJSZ2zo_qIkjh5YqG1XNjAQcuF5L/view?usp=drive_link)] <br> Livecoding example: Car Value Calculator | |
+| October 23 | Lecture: "Mapping and Local Search" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1vSYmnAoEkw_4587LzA714smlD2CLblyM/view?usp=sharing)] [[Complete Video](https://youtu.be/ACU7_aSSBnc)] <br> PrairieLearn LRQ: Homework 1 Zone 11 | Activity: Pathfinding in Michigan [[Slides](https://drive.google.com/file/d/1Yu5EUxVUCPQXgSy-ta_yoYHSqKEnIdxY/view?usp=sharing)] [[Worksheet](https://drive.google.com/file/d/12Oszv_Jo5K9VwjlGXR1zaVfnnsGuNqYx/view?usp=drive_link)] | |
 | October 25 | | Project 2 Demo Session | Project 2 Deadline <br> Project 3 Release |
 
 ### Week 10
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 28 | Lecture: "Global Search: BFS & A-Star" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 4 Zone 2 | Activity: C++ Pathfinding in Michigan [Slides]() | |
+| October 28 | Lecture: "Global Search: BFS & A-Star" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/186VGjjpD9q911A5l3HfGSFjEiIDStErr/view?usp=sharing)] [[Complete Video](https://youtu.be/km2vORl0FQ4)] <br> PrairieLearn LRQ: Homework 1 Zone 12 | Activity: C++ Pathfinding in Michigan [Slides]() | |
 | October 30 |  | Quiz 2 <del>Project 3 Work Session</del> | |
 | November 1 | | Lab: Using the Navigation Webapp | |
 

@@ -30,6 +30,6 @@ The robot should follow the nearest obstacle without spinning, as shown in the v
 <iframe style="max-width: 100%;" class="centered" width="560" height="315" src="https://www.youtube.com/embed/Dg6IREtXIS0?si=4PyFbt7oCZn5iOkq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>
 
 ## Testing
-The functions can be tested by running the local unit tests. To test only the functions for this checkpoint run ```ctest -R FindMinDist --output-on-failure && ctest -R FindMinNonzeroDist --output-on-failure``` in the ```/build``` directory.
+Breadth first search can be tested by running. To test only the functions for this checkpoint run ```ctest -R FindMinDist --output-on-failure && ctest -R FindMinNonzeroDist --output-on-failure``` in the ```/build``` directory.
 
 The robot behavior can be tested by running the ```follow_2d``` executable. 

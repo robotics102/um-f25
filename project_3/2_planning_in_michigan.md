@@ -27,11 +27,13 @@ Complete the following:
 
 ### Code Overview
 
-*Coming soon*
+All of the code for this activity is in ```src/1_planning_in_michigan/```. The purpose of this codebase is to represent a graph as a struct in code and then implement basic graph search algorithms over that graph. The definition of the ```Graph``` is given in ```planning.h``` along with a few definitions and several declarations for functions to manipulate the graph. The functions that are declared in ```planning.h``` are implemented in ```planning.cpp```. You will work in ```planning.h``` and ```planning.cpp``` according to the items above, which are marked as tasks.
 
+The graph you will plan over is loaded from the file ```data/planning_in_michigan/mi_graph.txt```. This graph stores the node names and connectivity of the graph pictured above.
+ 
 ## Expected Behavior
 
-*Coming soon*
+The expected behavior of the code is described in the header file ```planning.h```. By taking a read through all of the comments you should be able to get a sense of how the code fits together.
 
 ## Testing
 

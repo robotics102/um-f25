@@ -29,11 +29,30 @@ This is the final checkpoint for the wall follower project. You will implement f
 
 ### Code Overview
 
-*Coming soon*
+All code other than that in the planning in michigan folder is code for the main project. The folders are organized as follows:
+
+- ```/build``` the folder for your build artifacts. Run executables and CTest here.
+- ```/data``` files defining input maps and graphs to be loaded.
+- ```/include``` header files for defining and documenting graph structures, graph functions, search functions, and utilities.
+- ```/scripts``` Python scripts for dealing with maps. (You won't need to use these, unless you're making your own test map.)
+- ```/src``` the source files for implementing graph structures, graph functions, search functions, and utilities.
+- ```/test``` the source files for the public tests, built into an executable that can be run by CTest.
+
+The first main feature of the codebase is to define a ```GridGraph``` struct that is similar to the ```Graph``` struct from before. The ```GridGraph``` is special because it is a graph that is designed to be initialized from a map built by the SLAM system. The map is a 2D grid of cells. Each cell stores an estimate of the "log likelihood of occupancy" as a signed 8 bit integer. If the cell almost certainly has no obstacles in it, it will have a value close to -128. If the cell almost certainly has an obstacle in it, it will have a value close to 127. If we pick a number between -128 and 127 as a cutoff, we can call all cells below unnoccupied and all cells above occupied. Storing this map as a graph with nodes for each cell and connections between each of the neighboring eight cells, we now have a graph that we can search over to find a path. This definition can be found in ```include/utils/graph_utils.h```. Also in this file, are several functions for working with the graph, some of which you will implement.
+
+The next main feature of the codebase is to define search algorithms on the graph. These will be functions that will take a starting location, goal location, and a graph struct, and then return a path on the graph struct. You will only be required to implement ```breadthFirstSearch()```. These functions are declared in ```include/graph_search/graph_search.h``` and need to be implemented in ```src/graph_search/graph_search.cpp```.
+
+During the implementation of these algorithms you will need to check whether a node in the graph is in collision before deciding whether to search over it. There are two functions for doing this, only one of which will work by default. The function ```checkCollision()``` is given in ```graph_utils.cpp``` and will work without modification. The function ```checkCollisionFast()``` is given, but will only work if a distance transform function is called before. Distance transform functions are only necessary to implement if you want to use ```checkCollisionFast()```, which is not required. 
 
 ## Expected Behavior
 
-*Coming soon*
+The expected behavior of each function and the expected usage of each struct should be apparent by the comments in the header files. Please take your time to read over the codebase to get a sense of how the code fits together. 
+
+There are two important points to emphasize for the implmentation of breadth first search:
+- The ```getNeighbors()``` function must return neighbors in the order specified in the comment above its declaration. 
+- The ```breadthFirstSearch()``` function should update the parent of the current cell if one of the newly visited adjacent cells provides a shorter path back to the starting cell. 
+
+The test cases are designed to expect this behavior, and check it.
 
 ## Testing
 

@@ -71,7 +71,7 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | October 14 | | Fall Study Break | |
 | October 16 | | Project Work Session <del>Quiz 2</del> | |
-| October 18 | | Lab: Robot Localization Workflow | |
+| October 18 | | Lab: Robot Localization Workflow [[Slides](https://drive.google.com/file/d/15nMafhRw9TiAniWvONFiJzPwN3bHnDuw/view?usp=drive_link)] | |
 
 ### Week 9
 

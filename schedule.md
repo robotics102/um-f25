@@ -87,29 +87,29 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | October 28 | Lecture: "Global Search: BFS & A-Star" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/186VGjjpD9q911A5l3HfGSFjEiIDStErr/view?usp=sharing)] [[Complete Video](https://youtu.be/km2vORl0FQ4)] <br> PrairieLearn LRQ: Homework 1 Zone 12 | Activity: C++ Pathfinding in Michigan [Slides]() | |
 | October 30 |  | Quiz 2 <del>Project 3 Work Session</del> | |
-| November 1 | | Lab: Using the Navigation Webapp | |
+| November 1 | | Lab: P3 & Using the Navigation Webapp | |
 
 ### Week 11
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 4 | Lecture: "Machine Learning" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 1  | Activity: Deep Learning Demonstration [Slides]() [Notebook]() <br> Project 3 Work Session | Project 4 Release |
-| November 6 | Lecture: "Python Introduction" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 2 | Python Review <br> Activity: Python Pocket Calculator [Slides]()  | |
+| November 4 | | Project 3 Work Session | |
+| November 6 | Lecture: "Python Introduction" [PrairieLearn]() [[Slides](https://drive.google.com/file/d/1Oz3ISJmxn0CM-_qs6L0T3S2-LMNoUQUP/view?usp=drive_link)] [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 2 | Python Review <br> Activity: Python Pocket Calculator [Slides]()  | |
 | November 8 | | Project 3 Work Session | |
 
 ### Week 12
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 11 | Lecture: "Nearest Neighbors" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 3 | Activity: Image Distance in Python [Slides]() [Notebook]() | |
-| November 13 | | Project 3 Work Session | |
+| November 11 | Lecture: "Machine Learning" [PrairieLearn]() [[Slides](https://drive.google.com/file/d/1UBgJzD37lLbkx1EtpST5d9Y7NJXbO0nm/view?usp=drive_link)] [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 1  | Activity: Deep Learning Demonstration [Slides]() [Notebook]() <br> Project 3 Work Session | Project 4 Release |
+| November 13 | Lecture: "Nearest Neighbors" [PrairieLearn]() [[Slides](https://drive.google.com/file/d/1itM3-Ls-2vOkP2qcR1tZC6_a87vcwHcb/view?usp=drive_link)] [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 3 | Activity: Image Distance in Python [Slides]() [Notebook]() | |
 | November 15 | | Project 3 Work Session | |
 
 ### Week 13
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 18 | Lecture: "Neural Network Training" [PrairieLearn]() [Slides]() [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 4 | Activity: Machine Learning with SciKit Learn [Slides]() [Notebook]() | |
+| November 18 | Lecture: "Neural Network Training" [PrairieLearn]() [[Slides](https://drive.google.com/file/d/1sUmNzrIzMQlihvTM9u_7DnCFPlH6DBsr/view?usp=drive_link)] [Complete Video]() <br> PrairieLearn LRQ: Homework 5 Zone 4 | Activity: Machine Learning with SciKit Learn [Slides]() [Notebook]() | |
 | November 20 | | Quiz 3 | |
 | November 22 | | Project 3 Work Session | Project 3 Deadline |
 

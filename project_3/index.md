@@ -34,7 +34,7 @@ You can refer back to the [Git Tutorial](https://hellorob.org/tutorials/git) on 
 
 * Navigate to the root directory of your repository using ```cd```.
 * Configure your build system by running one of the two commands below. You will only need to run this command once in a given local repository. 
-    * If your repository is on the robot run ```cmake -B build` -DMBOT=ON``. 
+    * If your repository is on the robot run ```cmake -B build -DMBOT=ON```. 
     * If your repository is on your laptop run ```cmake -B build```.
 * Run your build system using ```cmake --build build```. You will need to re-run this every time you change your code. 
 

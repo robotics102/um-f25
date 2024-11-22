@@ -111,13 +111,13 @@ ROB 102, Fall 2024 at The University of Michigan
 |--|--|--|--|
 | November 18 | Lecture: "Nearest Neighbors" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1itM3-Ls-2vOkP2qcR1tZC6_a87vcwHcb/view?usp=drive_link)] [[Complete Video]()] <br> PrairieLearn LRQ: Homework 1 Zone 16 | Activity: Image Distance in Python [[Slides]()] [[Notebook]()] | |
 | November 20 | | Quiz 3 | |
-| November 22 | | Project 3 Work Session | Project 3 Deadline |
+| November 22 | | Project 3 Work Session | |
 
 ### Week 14
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 25 | | Project 3 Demo Session | |
+| November 25 | | Project 3 Demo Session | Project 3 Deadline |
 | November 27 | | Thanksgiving Break | |
 | November 29 | | Thanksgiving Break | |
 

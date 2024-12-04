@@ -24,8 +24,19 @@ To get your starter code download the files by clicking [here](https://robotics1
 * Unzip the files ```unzip p4_notebooks_template.zip```.
 * Delete the zip archive ```rm p4_notebooks_template.zip```.
 
-*Starter code for the robot portion coming soon*
+To get the starter code for the robot portion of the project download the files by clicking [here](https://robotics102.org/um-f24/assets/template_code/p4_robot_tour_guide_template.zip) and extracting them, or by running the commands below in your terminal.
+
+* Navigate to a directory that is not already a git repository using ```cd```. If running ```git status``` outputs ```fatal: ...``` you're not in a git repository.
+* Download the files from the website ```wget https://robotics102.org/um-f24/assets/template_code/p4_robot_tour_guide_template.zip```.
+* Unzip the files ```unzip p4_robot_tour_guide_template.zip```.
+* Delete the zip archive ```rm p4_robot_tour_guide_template.zip```.
 
 ## Setting Up Your Repository
 
-You will want to complete these notebooks on [Google CoLab](https://colab.research.google.com/) by uploading them to your [Google Drive](drive.google.com). You won't need a GitHub repository for ths portion of the projects.
+You will want to complete the notebooks on [Google CoLab](https://colab.research.google.com/) by uploading them to your [Google Drive](drive.google.com).
+
+To set up a repository for the robot code, follow [the guide](https://robotics102.org/um-f24/workflows/setting_up_repo.html).
+
+## Project Instructions
+
+For this project, refer to the [instructions on HelloRob](https://hellorob.org/projects/p4).

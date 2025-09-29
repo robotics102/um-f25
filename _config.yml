@@ -14,7 +14,8 @@ aux_links:
   "HelloRob": https://hellorob.org
   "PrairieLearn": https://us.prairielearn.com/
   "Autograder.io": https://autograder.io/
-  "Piazza": https://piazza.com/umich/fall2024/rob102fa2024
+  "Piazza": https://piazza.com/umich/fall2025/rob102fa2025
+  "Google Drive": https://drive.google.com/drive/folders/1DsZz9f_SvsMi2mMTJYCxw7rybQgjfams?usp=sharing
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

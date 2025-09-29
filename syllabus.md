@@ -6,8 +6,14 @@ nav_order: 3
 
 # Syllabus
 {: .no_toc }
-ROB 102, Fall 2024 at The University of Michigan
+ROB 102, Fall 2025 at The University of Michigan
 {: .fs-6 .fw-300 }
+
+
+## Updated Syllabus
+
+An [updated syllabus](https://docs.google.com/document/d/1xxJHOiJGdLmvzV0_qftdHRsTBJYdW2Rl-T_ao-CPGWE/edit?usp=sharing) can be found here! Below will provide a more general overview of ROB 102.
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,6 +22,7 @@ ROB 102, Fall 2024 at The University of Michigan
 {:toc}
 
 ---
+
 
 ## Degree Program Credit
 
@@ -57,7 +64,7 @@ Similar to Engineering 101, all technical information that you need for Robotics
 
 ## Projects & Grading
 
-Grading for Robotics 102 consists 5 programming projects, 5 quizzes, lecture review questions, and student participation.  Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis on the course schedule. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All coursework must be checked by the final grading deadline (December 12, 2024) to receive credit.
+Grading for Robotics 102 consists 5 programming projects, 5 quizzes, lecture review questions, and student participation.  Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis on the course schedule. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All coursework must be checked by the final grading deadline (December 11, 2025) to receive credit.
 
 ### Grading Breakdown
 
@@ -90,7 +97,7 @@ Based on this sum of points from coursework, an overall grade for the course is 
 
 ### Final Grading Deadline
 
-All grading will be finalized for course work submitted on or before December 12, 2024. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
+All grading will be finalized for course work submitted on or before December 12, 2025. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
 
 ### Projects
 
@@ -100,17 +107,6 @@ We expect students to use git repositories for collaborative development. It is 
 
 IMPORTANT: Do not modify the directory structure in the template code. Repositories that do not follow the directory structure will not be graded.
 
-
-### Lecture Review Questions
-
-Each flipped classroom lecture will have questions review questions to answer.  These lecture review questions serve as pre-class preparation for an upcoming class meeting.  Completion of these lecture review questions is due by the start of the class meeting.    For lecture review questions assigned for a class meeting, the percentage of the credit granted depends the correctness of the responses to the questions and the time of submission:
-
-- Full credit: submission prior to the start of the class period 
-- 80%: submission prior to 11:59pm of the day of the class period
-- 60%: submission prior to due date of the project module associated with the lecture
-- 50%: submission prior to the final grading deadline for the semester
-
----
 
 ### Late and Regrading Policy
 

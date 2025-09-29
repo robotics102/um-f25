@@ -11,10 +11,10 @@ nav_order: 1
 
 ## Code Setup
 
-This activity will be downloaded and completed as a stand alone file. To get the starter code download the file by clicking [here](https://robotics102.org/um-f24/assets/template_code/car_value.cpp) or running the commands below in your terminal. Note that the easiest way to get the file into WSL on Windows will be by using your terminal. 
+This activity will be downloaded and completed as a stand alone file. To get the starter code download the file by clicking [here](https://robotics102.org/um-f25/assets/template_code/car_value.cpp) or running the commands below in your terminal. Note that the easiest way to get the file into WSL on Windows will be by using your terminal. 
 
 * Navigate to a directory where you want to keep this activity.
-* Download the files from the website ```wget https://robotics102.org/um-f24/assets/template_code/car_value.cpp```.
+* Download the files from the website ```wget https://robotics102.org/um-f25/assets/template_code/car_value.cpp```.
 
 Build your code by running ```g++ car_value.cpp -o car_value -std=c++14 -Wall -Werror -Wextra```. Run your code by running ```./car_value```.
 

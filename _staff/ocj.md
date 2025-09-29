@@ -1,6 +1,6 @@
 ---
 name: Chad Jenkins
-role: Instructor
+role: Legacy Instructor
 email: ocj@umich.edu
 website: https://ocj.name/
 photo: ocj.jpg

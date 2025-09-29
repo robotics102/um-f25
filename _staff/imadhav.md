@@ -1,6 +1,6 @@
 ---
 name: Isaac Madhavaram
-role: Instructional Aide
+role: Graduate Student Instructor
 email: imadhav@umich.edu
 photo: imadhav.jpg
 ---

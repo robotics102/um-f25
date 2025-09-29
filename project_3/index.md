@@ -17,16 +17,16 @@ This project will be completed individually. You will not need a robot until the
 
 ## Getting Your Code
 
-To get your starter code download the files by clicking [here](https://robotics102.org/um-f24/assets/template_code/p3_path_planning_template.zip) and extracting them, or by running the commands below in your terminal. 
+To get your starter code download the files by clicking [here](https://robotics102.org/um-f25/assets/template_code/p3_path_planning_template.zip) and extracting them, or by running the commands below in your terminal. 
 
 * Navigate to a directory that is not already a git repository using ```cd```. If running ```git status``` outputs ```fatal: ...``` you're not in a git repository.
-* Download the files from the website ```wget https://robotics102.org/um-f24/assets/template_code/p3_path_planning_template.zip```.
+* Download the files from the website ```wget https://robotics102.org/um-f25/assets/template_code/p3_path_planning_template.zip```.
 * Unzip the files ```unzip p3_path_planning_template.zip```.
 * Delete the zip archive ```rm p3_path_planning_template.zip```. 
 
 ## Setting Up Your Repository
 
-To be able to easily transfer your code between your laptop and your robot, you'll want to create a remote repository on GitHub, create a local git repository in the folder you just downloaded, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Setting Up a Repository](https://robotics102.org/um-f24/workflows/setting_up_repo.html) guide to complete these steps. 
+To be able to easily transfer your code between your laptop and your robot, you'll want to create a remote repository on GitHub, create a local git repository in the folder you just downloaded, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Setting Up a Repository](https://robotics102.org/um-f25/workflows/setting_up_repo.html) guide to complete these steps. 
 
 You can refer back to the [Git Tutorial](https://hellorob.org/tutorials/git) on HelloRob to refresh on general Git and GitHub usage. 
 

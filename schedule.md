@@ -14,7 +14,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class (due before start of class) | In-class | Project |
 |--|--|--|--|
 | August 26	| | Course Initialization [<a href="https://drive.google.com/file/d/1ibFXbNt9BvU9R8EWpm4NQIPpm3eGfbCw/view?usp=drive_link">Slides</a>] <br> Join <a href="https://piazza.com/umich/fall2024/rob102fa2024">Robotics 102 Piazza</a> <br> Complete <a href="https://forms.gle/tt6ehdbt8rTwuHDn9">Student Workflow Survey</a> <br> Join <a href="https://us.prairielearn.com/pl/course_instance/157264">Robotics 102 PrairieLearn</a> | |
-| August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [[Slides](https://drive.google.com/file/d/1jN8zMotvd1T-0LAFFQJ4dSGBMhsqW8AW/view?usp=drive_link)] <br> [VSCode Setup](https://robotics102.org/um-f24/workflows/computer_setup.html) | Project 0 Release |
+| August 28 | Lecture: "Hello World" \[[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)\] [<a href="https://drive.google.com/file/d/1pXSEdDW4iYPmcCFozfFtQlN-FTZzZI6x/view?usp=sharing">Slides</a>] [<a href="https://www.youtube.com/watch?v=nKu9H-CeptI">Complete Video</a>]  <br> PrairieLearn LRQ: Homework 1 Zone 1  | Activity: First C++ Programs [[Slides](https://drive.google.com/file/d/1jN8zMotvd1T-0LAFFQJ4dSGBMhsqW8AW/view?usp=drive_link)] <br> [VSCode Setup](https://robotics102.org/um-f25/workflows/computer_setup.html) | Project 0 Release |
 | August 30 | | Lab: VSCode, Coding, and the MBot-Omni [[Slides](https://drive.google.com/file/d/1uOqbO4VCs_CZCqzRoUmaHyj-nxhk_nfv/view?usp=drive_link)] <br> Project 1 Team Assignments | |
 
 ### Week 2
@@ -46,7 +46,7 @@ ROB 102, Fall 2024 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | September 23 | Lecture: "C++ Vectors and Structs" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=4Hfr6zcVHFo)] <br> PrairieLearn LRQ: Homework 1 Zone 7 | Quiz 0 <br> Activity: Find Minimum Value | | 
-| September 25 | Lecture: "Wall Follower 3D Vector Math" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=93K6UDaKTUw)] <br> PrairieLearn LRQ: Homework 1 Zone 8 | Activity: Follow Me 2D [[Description](https://robotics102.org/um-f24/project_1/4_follow_2d.html)] | |
+| September 25 | Lecture: "Wall Follower 3D Vector Math" [[PrairieLearn](https://us.prairielearn.com/pl/course_instance/157264/assessment_instance/7941916/)] [[Slides](https://drive.google.com/file/d/1e5n7GW69icHEU6NihUd4I7p7vlNpd9zk/view?usp=sharing)] [[Complete Video](https://www.youtube.com/watch?v=93K6UDaKTUw)] <br> PrairieLearn LRQ: Homework 1 Zone 8 | Activity: Follow Me 2D [[Description](https://robotics102.org/um-f25/project_1/4_follow_2d.html)] | |
 | September 27 | | Project 1 Work Session | |
 
 ### Week 6

@@ -37,4 +37,4 @@ You'll want to set the global configuration for user and email. You'll also want
 - ```git config --global user.email "YOUR_EMAIL"```
 - ```git config --global user.name "YOUR_NAME"```
 
-Follow the [Setting Up a Repository](https://robotics102.org/um-f24/workflows/setting_up_repo.html) guide to set up your project and be sure to generate a new ssh-key on the robot.
+Follow the [Setting Up a Repository](https://robotics102.org/um-f25/workflows/setting_up_repo.html) guide to set up your project and be sure to generate a new ssh-key on the robot.

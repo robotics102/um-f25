@@ -47,7 +47,7 @@ Finally install two more VSCode extensions by searching in the extensions bar.
 
 In this course we'll rely on the CMake Tools extension to make sure VSCode can understand your code structure properly. This will help tools like the visual debugger to give you more accurate warnings while you are coding. 
 
-- Download project code from one of the project pages on this website. For example, [follow this](https://robotics102.org/um-f24/project_0/#getting-your-code) for Project 0.
+- Download project code from one of the project pages on this website. For example, [follow this](https://robotics102.org/um-f25/project_0/#getting-your-code) for Project 0.
 - Open the folder with this project in VSCode.
 - Click on the CMake extension in the left bar of the VSCode window.
 - Under the "Folder" drop down, make sure the project's root directory is selected.

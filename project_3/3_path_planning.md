@@ -60,7 +60,7 @@ The functions ```findNeighbors()``` and ```breadthFirstSearch()``` can be tested
 
 It is highly encouraged to debug your code by running ```./nav_cli``` in the ```build``` directory. This will ask for an input map file. Provide the file as ```../data/MAP_NAME.map``` for one of the given maps in the ```/data``` folder. The executable will output a ```out.planner``` file with the path you planned. Upload the map and the planner file to the [navigation webapp](https://hellorob.org/nav-app/) to visualize your plan, which is extra helpful for debugging.
 
-Once you are convinced ```breadthFirstSearch()``` is working, you are ready to test on the robot. Make sure you have followed the [Setting Up a Repository](https://robotics102.org/um-f24/workflows/setting_up_repo.html) guide and have cloned an updated version of your code onto the robot. Next complete the following on your robot.
+Once you are convinced ```breadthFirstSearch()``` is working, you are ready to test on the robot. Make sure you have followed the [Setting Up a Repository](https://robotics102.org/um-f25/workflows/setting_up_repo.html) guide and have cloned an updated version of your code onto the robot. Next complete the following on your robot.
 - Navigate to the root directory of your project code with ```cd```.
 - Configure your code with ```cmake -B build -DMBOT=ON```.
 - Build your code with ```cmake --build build```.

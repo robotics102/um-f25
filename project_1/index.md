@@ -13,7 +13,7 @@ Project 1
 
 ## Teams
 
-Project 1 and project 2 will be done in in teams of two with the same teams for both projects. First get team assignments from your instructor. Then follow the instructions for **Getting Your Code** and **Setting Up Your Repository** below. Only one teammate needs to execute these steps. Once your repository is set up the other teammate can simply [clone the repository](https://hellorob.org/tutorials/git#sec_clone).
+Project 1 will be done individually, while project 2 will be done in in teams of two! First get team assignments from your instructor. Then follow the instructions for **Getting Your Code** and **Setting Up Your Repository** below. Only one teammate needs to execute these steps. Once your repository is set up the other teammate can simply [clone the repository](https://hellorob.org/tutorials/git#sec_clone).
 
 ## Getting Your Code
 
@@ -26,7 +26,7 @@ Project 1 and project 2 use the same codebase. To get your starter code download
 
 ## Setting Up Your Repository
 
-To be able to easily transfer your code between your laptop and your robot, you'll want to create a remote repository on GitHub, create a local git repository in the folder you just downloaded, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Setting Up a Repository](https://robotics102.org/um-f24/workflows/setting_up_repo.html) guide to complete these steps. 
+To be able to easily transfer your code between your laptop and your robot, you'll want to create a remote repository on GitHub, create a local git repository in the folder you just downloaded, make an initial commit in your local repository, and push the commit to your remote repository. Follow the [Setting Up a Repository](https://robotics102.org/um-f25/workflows/setting_up_repo.html) guide to complete these steps. 
 
 You can refer back to the [Git Tutorial](https://hellorob.org/tutorials/git) on HelloRob to refresh on general Git and GitHub usage. 
 

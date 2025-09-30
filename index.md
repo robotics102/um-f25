@@ -25,7 +25,7 @@ This is the course page for the Fall 2025 offering of [Hello, Robot! Introductio
 
 <i class="fa-solid fa-flask"></i> **Labs:**
 
-- W 1:30 - 3:30, 1050 FRB
+- W 1:30 - 3:30, 4050 FRB
 
 # Instructors
 

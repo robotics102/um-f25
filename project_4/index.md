@@ -11,6 +11,8 @@ has_toc: false
 Project 4
 {: .fs-6 .fw-300 }
 
+**This page has not been updated to reflect Fall 2025. These instructions are from Fall 2024, and are similar to what is expected in Fall 2025.**
+
 ## Teams
 
 This project will be completed individually. You will not need a robot until the very end. At that point, we will assign two people per robot.

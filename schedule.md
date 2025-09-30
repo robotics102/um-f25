@@ -53,16 +53,16 @@ ROB 102, Fall 2025 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| September 29 |  | Project 1 Demo Session | Project 2 Release |
-| October 1 | Lecture: "Bug Navigation and FSMs" | Activity: Super Mario FSM | Project 1 Deadline |	
-| October 1 | | Lab: Hit the Spot / Odometry | |
+| September 29 |   | Review: Super Mario FSM - P1 demo/work session | |
+| October 1 | Revisit PrairieLearn Zone 3 (FSM) and Zone 7 (vectors and struct) | Review: Odometry and Hit the spot (P2) | Project 1 Deadline |	
+| October 1 | | Lab: P1 demo/work session | Project 1 Deadline! |
 
 ### Week 7
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 6  | Lecture: "Coordinate Frames" | Quiz 1 | |
-| October 8  | | Bug Algorithm Pseudocode | |
+| October 6  | PrairieLearn Zone 9: Coordinate Transform | Quiz 1 | |
+| October 8  | | Bug Algorithm Pseudocode - P2 work session | |
 | October 8 | | Project 2 Work Session | |
 
 ### Week 8
@@ -70,7 +70,7 @@ ROB 102, Fall 2025 at The University of Michigan
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
 | October 13 | | Fall Study Break | |
-| October 15 | | Project Work Session | |
+| October 15 | PrairieLearn Zone 10: Autonomous Navigation | Mapping and Localization - P2 work session | |
 | October 15 | | Lab: Robot Localization Workflow | |
 
 ### Week 9
@@ -85,9 +85,9 @@ ROB 102, Fall 2025 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| October 27 | Lecture: "Global Search: BFS & A-Star" | Activity: C++ Pathfinding in Michigan | Project 3 Release |
-| October 29 |  | Quiz 2 | |
-| October 29 | | Lab: P3 & Using the Navigation Webapp | |
+| October 27 | Quiz 2 Lecture: "Global Search: BFS & A-Star" | Activity: C++ Pathfinding in Michigan | Project 3 Release |
+| October 29 | PrairieLearn Zone 12: Global search  | BFS and A*, Using MBot navigation webapp | |
+| October 29 | | Lab: P3 work session | |
 
 ### Week 11
 
@@ -101,23 +101,23 @@ ROB 102, Fall 2025 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 10 | Lecture: "Python Introduction" | Python Review | |
-| November 12 | Lecture: "Machine Learning" | Activity: Deep Learning Demonstration | Project 4 Release |
+| November 10 | PrairieLearn Zone 14: Python Introduction | Python Review - Pocket Calculator | |
+| November 12 | PrairieLearn Zone 15: Machine Learning | Activity: Deep Learning Demonstration | Project 4 Release |
 | November 12 | | Project 3 Work Session | |
 
 ### Week 13
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 17 | Lecture: "Nearest Neighbors" | Activity: Image Distance in Python | |
-| November 19 | | Quiz 3 | |
+| November 17 | | Quiz 3 | |
+| November 19 | PrairieLearn Zone 16: Nearest Neighbors | Activity: Image Distance in Python | |
 | November 19 | | Project 3 Work Session | |
 
 ### Week 14
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| November 24 | | Project 3 Demo Session | Project 3 Deadline |
+| November 24 | PrairieLearn Zone 17: Neural Network Training | Project 3 Demo Session | Project 3 Deadline |
 | November 26 | | Thanksgiving Break | |
 | November 26 | | Thanksgiving Break | |
 
@@ -125,14 +125,14 @@ ROB 102, Fall 2025 at The University of Michigan
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| December 1 | Lecture: "Neural Network Training" | Activity: Machine Learning with SciKit Learn | |
-| December 3 | | Quiz 4 | |
+| December 1 | | Quiz 4 | |
+| December 3 | Lecture: "Neural Network Training" | Activity: Machine Learning with SciKit Learn | |
 | December 3 | | Project 4 Work Session | |
 
 ### Week 16
 
 | Date | Pre-class | In-class | Project |
 |--|--|--|--|
-| December 8 | | Project 4 Demo Session | |
-| December 10 | | Project 4 Work Session | Project 4 Deadline |
+| December 8 | | Project 4 Demo Session, Course Recap & Feedback | Project 4 Deadline|
 | December 10 | | No Class | |
+| December 10 | | Enjoy the Break! | |

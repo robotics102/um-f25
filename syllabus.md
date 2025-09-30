@@ -10,9 +10,9 @@ ROB 102, Fall 2025 at The University of Michigan
 {: .fs-6 .fw-300 }
 
 
-## Updated Syllabus
+## Google Docs Syllabus
 
-An [updated syllabus](https://docs.google.com/document/d/1xxJHOiJGdLmvzV0_qftdHRsTBJYdW2Rl-T_ao-CPGWE/edit?usp=sharing) can be found here! Below will provide a more general overview of ROB 102.
+A [syllabus on Google Docs](https://docs.google.com/document/d/1xxJHOiJGdLmvzV0_qftdHRsTBJYdW2Rl-T_ao-CPGWE/edit?usp=sharing) can be found here as well!
 
 
 ## Table of contents
@@ -33,6 +33,7 @@ Completing Robotics 102 will fulfill
 
 - the [Engineering First Year Core Requirement](https://bulletin.engin.umich.edu/ug-ed/reqs/) for introductory programming for AERO, BME, CS-Engin, CS-LSA, NAME, and ROB.  Programs for other majors can be requested to count Robotics 102 for introductory programming.  Completion of [ENGR 161](https://bulletin.engin.umich.edu/courses/engr/) may be additionally needed for majors that require proficiency in MATLAB.
 
+Please double check with your academic advisor(s)!
 
 ---
 
@@ -52,35 +53,35 @@ Robotics 102 has no prerequisite courses. Students are expected to be fluent in 
 
 ## Course Meetings: Flipped Classroom
 
-Robotics 102 is taught using a flipped classroom hybrid format. The majority of the lectures will be pre-recorded and available online through this course website.  Robotics 102 this semester uses PrairieLearn for disseminating lecture video and lecture review questions.  In-person lab sections will be dedicated to topics for course projects, primarily for coding and testing with robots, as well as quizzes and question-and-answer discussions.  Students seeking help with coursework during office hours must watch all lectures that have been assigned up to the current date.  There will also be occasional field trips to see interesting robots, based their availability. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan.
+Robotics 102 is taught using a flipped classroom hybrid format. The majority of the lectures will be pre-recorded and available online through this course website.  Robotics 102 this semester uses PrairieLearn for disseminating lecture video and lecture review questions.  In-person lab sections will be dedicated to topics for course projects, primarily for coding and testing with robots, as well as quizzes and question-and-answer discussions.  Students seeking help with coursework during office hours must watch all lectures that have been assigned up to the current date.  There will also be occasional field trips to see interesting robots, based their availability. Everyone in Robotics 102 must comply with the public health policies of the University of Michigan. 
 
 ---
 
 ## Textbook
 
-Similar to Engineering 101, all technical information that you need for Robotics 102 will be presented in lectures and lab. However, if you’d like to look at a more traditional textbook, one option is the [Bielajew C++ Book](https://www.google.com/url?q=http://www-personal.umich.edu/~bielajew/ENG101/book.pdf&sa=D&source=editors&ust=1629908811295000&usg=AOvVaw04xCcgGXs_UjtIeXkSsyEf) used as an optional reference by Engineering 101. Be aware that this textbook does NOT provide a one-to-one correlation to how C++ is taught in this course. So, use this as a resource only.
+Similar to Engineering 101, all technical information that you need for Robotics 102 will be presented in lectures and lab. However, if you’d like to look at a more traditional textbook, one option is the [Bielajew C++ Book](https://www.google.com/url?q=http://www-personal.umich.edu/~bielajew/ENG101/book.pdf&sa=D&source=editors&ust=1629908811295000&usg=AOvVaw04xCcgGXs_UjtIeXkSsyEf) used as an optional reference by Engineering 101. Be aware that this textbook does NOT provide a one-to-one correlation to how C++ is taught in this course. So, use this as a resource only. You may also find the [C++ Primer book](https://cpp-primer.pages.dev/) and the [C++ programming language book](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup helpful.
 
 ---
 
 ## Projects & Grading
 
-Grading for Robotics 102 consists 5 programming projects, 5 quizzes, lecture review questions, and student participation.  Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis on the course schedule. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All coursework must be checked by the final grading deadline (December 11, 2025) to receive credit.
+Grading for Robotics 102 consists of 5 programming projects, 5 quizzes, lecture review questions, and student participation. Individual final grades are assigned based on the sum of points earned from coursework (detailed in subsections below). The timing and due dates for course projects and activities will be announced on an ongoing basis on the course schedule. The official due date of a project is listed with its project description. Due dates listed in the course schedule are tentative and subject to change. All coursework must be checked by the final grading deadline (December 11, 2025) to receive credit.
 
 ### Grading Breakdown
 
-Each fully completed project is weighted as 15 points.  An overall percentage score from across the semester will be used for quizzes (20 points overall) and lecture review questions (10 points overall).  Student participation (5 points overall) will be assessed by the course staff through the engagement, collaboration, professionalism, attendance, and coding style demonstrated by a student during the class.  The following table provides this point breakdown for Robotics 102 and its total of **110 points**. 
+P0 is weighted as 12 points. Each fully completed project from P1, P2, P3, P4 is weighted as 15 points. An overall percentage score from across the semester will be used for quizzes (20 points overall) and lecture review questions (13 points overall). Student participation (5 points overall) will be assessed by the course staff through the engagement, collaboration, professionalism, attendance, and coding style demonstrated by a student during the class. The following table provides this point breakdown for Robotics 102. The following table provides this point breakdown for Robotics 102 and its total of **110 points**. 
 
 | Description                  | Points |
 |------------------------------|--------|
-| Projects                     | 75     |
-| - Project 0: 15 points       |        |
+| Projects                     | 72     |
+| - Project 0: 12 points       |        |
 | - Project 1: 15 points       |        |
 | - Project 2: 15 points       |        |
 | - Project 3: 15 points       |        |
 | - Project 4: 15 points       |        |
 | Quizzes (5 x 4 points each)  | 20     |
-| Lecture Review Questions     | 10     |
-| Participation                | 5      |
+| Lecture Review Questions     | 15     |
+| Participation                | 3      |
 
 Based on this sum of points from coursework, an overall grade for the course is earned as follows:
 
@@ -95,9 +96,9 @@ Based on this sum of points from coursework, an overall grade for the course is 
 | C                            | 70            |                                                                                   |
 | C-                           | 60            |                                                                                   |
 
-### Final Grading Deadline
+## Final Grading Deadline
 
-All grading will be finalized for course work submitted on or before December 12, 2025. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
+All grading will be finalized for course work submitted on or before December 11, 2025. Regrading of specific assignments can be done upon request during office hours. No regrading will be done after grades are finalized.
 
 ### Projects
 

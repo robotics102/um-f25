@@ -13,7 +13,7 @@ Project 3
 
 ## Teams
 
-This project will be completed individually. You will not need a robot until the very end. At that point, we will assign two people per robot.
+This project will be completed in teams of 2! You will not need a robot until the very end. At that point, we will assign two people per robot.
 
 ## Getting Your Code
 

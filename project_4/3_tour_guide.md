@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Project 4
-nav_order: 8
-has_children: true
-has_toc: false
+parent: Project 4
+title: Robot Museum Tour Guide
+nav_order: 3
 ---
 
 # Part 3: Robot Museum Tour Guide

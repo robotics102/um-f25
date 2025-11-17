@@ -2,7 +2,7 @@
 layout: page
 parent: Project 3
 title: Planning in Michigan
-nav_order: 2
+nav_order: 1
 ---
 
 # Planning in Michigan (In Code)

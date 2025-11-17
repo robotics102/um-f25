@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Project 4
-nav_order: 8
-has_children: true
-has_toc: false
+parent: Project 4
+title: Training Machine Learning Algorithms
+nav_order: 2
 ---
 
 # Part 2: Training Machine Learning Algorithms

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Project 4
-nav_order: 8
-has_children: true
-has_toc: false
+parent: Project 4
+title: Nearest Neighbors
+nav_order: 1
 ---
 
 # Part 1: Nearest Neighbors

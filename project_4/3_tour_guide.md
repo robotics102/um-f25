@@ -1,8 +1,8 @@
 ---
 layout: page
-parent: Project 2
+parent: Project 4
 title: Robot Museum Tour Guide
-nav_order: 6
+nav_order: 3
 ---
 
 # Part 3: Robot Museum Tour Guide

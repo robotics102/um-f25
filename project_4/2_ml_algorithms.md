@@ -1,8 +1,8 @@
 ---
 layout: page
-parent: Project 2
+parent: Project 4
 title: Training Machine Learning Algorithms
-nav_order: 5
+nav_order: 2
 ---
 
 # Part 2: Training Machine Learning Algorithms

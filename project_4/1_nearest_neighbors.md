@@ -1,8 +1,8 @@
 ---
 layout: page
-parent: Project 2
+parent: Project 4
 title: Nearest Neighbors
-nav_order: 4
+nav_order: 1
 ---
 
 # Part 1: Nearest Neighbors

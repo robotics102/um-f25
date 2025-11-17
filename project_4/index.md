@@ -11,7 +11,16 @@ has_toc: false
 Project 4
 {: .fs-6 .fw-300 }
 
-**This page has not been updated to reflect Fall 2025. These instructions are from Fall 2024, and are similar to what is expected in Fall 2025.**
+**This page is currently being updated to reflect the instructions for Fall 2025. There are items that may not be fully updated yet**
+
+## Project Description
+
+In this project, you will use various machine learning algorithms for image classification on the MNIST dataset. Then, you will use the best algorithm to perform image classification on the robot in a museum tour guide task.
+
+* Part 1: Nearest Neighbors in Python
+* Part 2: Training Machine Learning algorithms with SciKit Learn
+* Part 3: Robot Museum Tour Guide
+
 
 ## Teams
 
@@ -38,7 +47,3 @@ To get the starter code for the robot portion of the project download the files 
 You will want to complete the notebooks on [Google CoLab](https://colab.research.google.com/) by uploading them to your [Google Drive](drive.google.com).
 
 To set up a repository for the robot code, follow [the guide](https://robotics102.org/um-f25/workflows/setting_up_repo.html).
-
-## Project Instructions
-
-For this project, refer to the [instructions on HelloRob](https://hellorob.org/projects/p4).

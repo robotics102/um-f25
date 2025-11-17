@@ -17,9 +17,9 @@ This is the final checkpoint for the wall follower project. You will implement f
 *Graph functionality*
 - Implement the ```CellNode``` struct in ```include/utils/graph_utils.h```.
 - Modify the ```GridGraph``` struct in ```include/utils/graph_utils.h``` to add a member variable storing information about the graph's nodes.
-- Implement the ```initGraph()``` function in ```src/utils/grid_graph.cpp``` according to the header file ```include/utils/graph_utils.h```.
-- Implement the ```findNeighbors()``` function in ```src/utils/grid_graph.cpp``` according to the header file ```include/utils/graph_utils.h```.
-- Implement the ```getParent()``` function in ```src/utils/grid_graph.cpp``` according to the header file ```include/utils/graph_utils.h```.
+- Implement the ```initGraph()``` function in ```src/utils/graph_utils.cpp``` according to the header file ```include/utils/graph_utils.h```.
+- Implement the ```findNeighbors()``` function in ```src/utils/graph_utils.cpp``` according to the header file ```include/utils/graph_utils.h```.
+- Implement the ```getParent()``` function in ```src/utils/graph_utils.cpp``` according to the header file ```include/utils/graph_utils.h```.
 
 *Search functionality*
 - Implement the ```breadthFirstSearch()``` function in ```src/graph_search/graph_search.cpp```.

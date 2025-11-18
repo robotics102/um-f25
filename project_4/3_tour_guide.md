@@ -13,7 +13,9 @@ Project 4
 
 Once you have trained a machine learning algorithm to recognize digits, you will use it on the robot to detect digits using the robot's camera. The robot's task will be to detect images in a museum (represented by a maze), and use the result to select which museum location to go to next. The waypoints corresponding to each digit will be provided by the instructors. The robot will use planning code from Project 3 to drive between the waypoints. Here is a visualization of the final demo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dVWIQGbPjW0?si=HaLIV74zT-tbVLfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dVWIQGbPjW0?si=HaLIV74zT-tbVLfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 The instructors will provide a list of digits and their corresponding waypoints. Not all digits will be represented. Here is an example waypoint course configuration, where the digit of interest is followed by a waypoint, in format [x, y, theta] (positions are in meters and angles are in radians):
 
@@ -25,7 +27,7 @@ The instructors will provide a list of digits and their corresponding waypoints.
 ```
 
 This configuration corresponds to the following map:
-![Map_Ouput](https://robotics102.org/um-f25/assets/images/p4/maze_ex.png){:style="width:800px;" .centered .rd-corners}
+![Map_Ouput](https://robotics102.org/um-f25/assets/images/p4/maze_ex.jpg){:style="width:800px;" .centered .rd-corners}
 
 
 The waypoints are labelled in blue circles, and correspond to the waypoints given in the course configuration. On the wall facing the given configuration, there will be a handwritten digit (as shown in the image). The digit tells the robot which waypoint to visit next. All waypoints in the configuration will have a handwritten digit at the corresponding map location.
